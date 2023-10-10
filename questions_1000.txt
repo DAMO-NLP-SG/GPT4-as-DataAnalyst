@@ -1,0 +1,1000 @@
+7@y_name@DESC	Bar	Medium	activity_1	Show all the buildings along with the number of faculty members the buildings have Plot them as bar chart, show in descending by the total number.
+17@x_name@DESC	Bar	Medium	activity_1	How many faculty members do we have for each rank? Show bar chart, rank X-axis from high to low order please.
+31	Pie	Medium	aircraft	Please list the proportion number of each winning aircraft.
+69@y_name@DESC	Bar	Extra Hard	apartment_rentals	Find the number of booking start date for the apartments that have more than two bedrooms for each year with a bar chart, and list by the Y in desc.
+71@y_name@ASC	Bar	Extra Hard	apartment_rentals	Find the number of booking start date for the apartments that have more than two bedrooms for each weekday with a bar chart, and order total number in asc order.
+73	Pie	Easy	apartment_rentals	Show the booking status code and the corresponding number of bookings by a pie chart.
+74	Bar	Easy	apartment_rentals	Show the booking status code and the corresponding number of bookings in a bar chart.
+77@y_name@DESC	Bar	Extra Hard	apartment_rentals	What is the booking start dates of the apartments with type code "Duplex"? Bin the year into weekday interval with a bar chart, show by the y-axis in descending.
+77@y_name@ASC	Bar	Extra Hard	apartment_rentals	What is the booking start dates of the apartments with type code "Duplex"? Bin the year into weekday interval with a bar chart, show by the total number in asc.
+78	Bar	Hard	apartment_rentals	What is the booking end dates of the apartments with type code "Duplex"? Bin the year into weekday interval with a bar chart.
+82@x_name@ASC	Bar	Extra Hard	apartment_rentals	Show the facility codes of apartments with more than 4 bedrooms, and count them by a bar chart, and I want to list by the bars from low to high.
+90@y_name@ASC	Bar	Hard	apartment_rentals	Show the number of apartment bookings for each weekday and bin booking start date by weekday interval in a bar chart, and I want to list by the total number from low to high.
+91@y_name@DESC	Bar	Hard	apartment_rentals	How many apartment bookings for each weekday? Draw a bar chart binning booking start date by weekday interval, list by the the number of booking start date in descending.
+96@y_name@DESC	Bar	Easy	apartment_rentals	Return a bar chart showing the minimum room count of apartments in different type, could you display y axis from high to low order?
+103	Pie	Hard	apartment_rentals	Give me a pie chart showing the number of buildings managed by "Kyle" and group by apartment type codes .
+104	Bar	Hard	apartment_rentals	Give me a bar chart showing the number of buildings managed by "Kyle" and group by apartment type codes.
+114@x_name@DESC	Bar	Medium	architecture	Give me a histogram for what are the ids and names of the architects who built at least 3 bridges ?, and list by the names in desc.
+116@y_name@ASC	Bar	Hard	assets_maintenance	How many engineers did each staff contact? List both the contact staff name and number of engineers contacted in a bar chart, rank from low to high by the y-axis.
+117@y_name@ASC	Bar	Medium	assets_maintenance	Show the number of assets and group by asset make in a bar chart, and list in asc by the Y.
+122	Pie	Medium	assets_maintenance	A pie chart showing the number of faults for different fault status of all the faults recoreded in the logs.
+123@y_name@ASC	Bar	Hard	assets_maintenance	A bar chart about the number of faults for different fault status of all the faults recoreded in the logs, could you display in ascending by the y-axis please?
+124@x_name@ASC	Stacked Bar	Extra Hard	assets_maintenance	A stacked bar about the number of faults for different fault description and fault status of all the faults recoreded in the logs, and I want to show bar in ascending order.
+127	Bar	Medium	assets_maintenance	How many staffs have contacted with each engineer? Give me a bar chart grouping by each engineer's first name.
+128@x_name@ASC	Bar	Hard	assets_maintenance	How many staffs have contacted with each engineer? Give me a bar chart grouping by each engineer's last name, display in asc by the x-axis.
+128@y_name@DESC	Bar	Hard	assets_maintenance	How many staffs have contacted with each engineer? Give me a bar chart grouping by each engineer's last name, order the number of last name in descending order.
+129@y_name@DESC	Stacked Bar	Extra Hard	assets_maintenance	A stacked bar chart showing the number of engineers for different skill description The x-axis is skill description and group by other deteails, display Y-axis in desc order.
+134@y_name@DESC	Stacked Bar	Extra Hard	assets_maintenance	List the number of enginners in a stacked bar chart The x-axis is last name and group by skill description, display y axis from high to low order.
+145@y_name@DESC	Stacked Bar	Extra Hard	assets_maintenance	A stacked bar chart showing the number of faults for different fault short name and skills required to fix them The x-axis is skill description and group by fault short name, display by the y axis in descending.
+148	Bar	Medium	assets_maintenance	A bar chart about the number of faults for different fault short name.
+161@x_name@ASC	Line	Extra Hard	baseball_1	For each year, bin the year into day of the week interval, and return the total number of times the team Boston Red Stockings won in the postseasons using a line chart, show by the x-axis in ascending.
+163@x_name@ASC	Line	Extra Hard	baseball_1	what is the number of wins the team Boston Red Stockings got in the postseasons each year in history?, and display X from low to high order.
+169	Line	Medium	baseball_1	Show the trend about the number of attendance at home games change over the years, bin year into year interval.
+173	Pie	Medium	battle_death	A pie chart showing the number of results of the battles when the bulgarian commander is not 'Boril'.
+175	Scatter	Medium	battle_death	plot scatter on what are the death and injury situations caused by the ship with tonnage 't'?
+179@x_name@ASC	Bar	Medium	battle_death	Draw a bar chart for what are the ids and names of the battles that led to more than 10 people killed in total, and could you sort bars from low to high order?
+179	Bar	Extra Hard	battle_death	Draw a bar chart for what are the ids and names of the battles that led to more than 10 people killed in total.
+184	Bar	Hard	behavior_monitoring	Find the number of the dates of assessment notes for students with first name "Fanny".
+186	Bar	Medium	behavior_monitoring	Find the number of last names of teachers in alphabetical order of last name with a bar chart.
+219	Bar	Medium	behavior_monitoring	Show me about the distribution of  other_details and the average of monthly_rental , and group by attribute other_details in a bar chart.
+232	Bar	Medium	behavior_monitoring	Return a bar chart about the distribution of  date_address_to and the amount of date_address_to bin date_address_to by weekday.
+239	Bar	Medium	behavior_monitoring	Show me about the distribution of  date_address_to and the average of monthly_rental bin date_address_to by weekday in a bar chart.
+248	Bar	Medium	behavior_monitoring	Draw a bar chart about the distribution of  date_address_from and the amount of date_address_from bin date_address_from by weekday.
+303	Line	Medium	bike_1	Please show the trend about the number of days with max temperature reaches 80 change over dates.
+317	Bar	Easy	bike_1	Bin the installation date into Year interval, and then you can draw a bar chart to tell me how many stations each year.
+326@x_name@ASC	Bar	Hard	bike_1	Draw a bar chart for what are the different ids and names of the stations that have had more than 12 bikes available?, and show from low to high by the bar.
+328	Scatter	Medium	bike_1	For each station, just simply show its longitude and the average duration of trips that started from the station using a scatter chart.
+329@x_name@ASC	Bar	Hard	bike_1	For days had a minimum dew point smaller than any day in zip code 94107, show the total number of such days using a bar chart, and show in asc by the names.
+335@y_name@ASC	Bar	Hard	bike_1	For dates had a minimum dew point smaller than any day in zip code 94107, show the total number of such days for each weekday using a bar chart, I want to rank Y-axis in asc order.
+339@x_name@DESC	Bar	Medium	bike_1	Draw a bar chart for what is the name of every city that has at least 15 stations and how many stations does it have?, and order by the x axis in desc.
+339@x_name@ASC	Bar	Medium	bike_1	Draw a bar chart for what is the name of every city that has at least 15 stations and how many stations does it have?, and rank by the city from low to high.
+339@y_name@DESC	Bar	Medium	bike_1	List the name and the number of stations for all the cities that have at least 15 stations with a bar chart, and list y-axis in descending order.
+343@y_name@ASC	Bar	Medium	bike_1	What is the frequency of the dates (bin into year interval) that had the top 5 cloud cover rates? You can draw me a bar chart for this purpose, and list by the y-axis from low to high.
+382	Bar	Easy	candidate_poll	Give me the comparison about the sum of Weight over the  Sex , and group by attribute Sex by a bar chart.
+400	Scatter	Easy	candidate_poll	A scatter showing the correlation between consider and oppose rates for each candidate.
+411@x_name@DESC	Bar	Medium	car_1	Give me a histogram for what are the names and ids of all countries with at least one car maker?, could you list in desc by the bars?
+413@y_name@ASC	Bar	Medium	car_1	Plot total number of mean weight by grouped by year as a bar graph, and rank total number in ascending order.
+413@y_name@DESC	Bar	Medium	car_1	Plot total number of avg weight by binning by year as a bar graph, and order in desc by the y-axis.
+420	Bar	Medium	car_1	How many countries does each continent have? Return a bar chart listing the continent name and the number of countries.
+429	Scatter	Medium	car_1	What is the number of car models that are produced by each maker? Show the id and number in a scatter chart.
+431@y_name@DESC	Bar	Medium	car_1	Draw a bar chart for what are the names and ids of all makers with more than 3 models?, could you sort by the Y from high to low?
+434@y_name@ASC	Bar	Hard	car_1	how many car makers are there in each continents? List the continent name and the count, rank by the Y from low to high.
+442	Pie	Easy	cinema	Give me a pie chart showing the number of films for each director.
+447@y_name@DESC	Bar	Medium	cinema	Give me the title and highest price for each film Show bar chart, sort by the total number from high to low.
+448	Stacked Bar	Medium	cinema	For each cinema, show the price and group them by film title in a stacked bar chart.
+455@x_name@DESC	Bar	Hard	cinema	For each film, return the number of cinemas showing that fim in a bar chart, and display by the X-axis in descending.
+460@y_name@DESC	Bar	Hard	cinema	For each record in schedule, show average of the price for each day in a bar chart, rank by the Y-axis in desc.
+466@x_name@ASC	Line	Medium	cinema	Show how many cinemas open for each year in a line chart, show x-axis from low to high order.
+468@x_name@DESC	Bar	Medium	cinema	Give me a bar chart for total number of capacity of each openning year, and sort bars in desc order.
+469	Bar	Easy	cinema	A bar chart showing the average of capacity of cinemas open for each year.
+471@x_name@ASC	Line	Medium	cinema	Tell me the average of capacity of cinemas open for each year in a line chart, sort in asc by the Openning_year.
+471	Line	Easy	cinema	Tell me the average of capacity of cinemas open for each year in a line chart.
+485@y_name@DESC	Bar	Medium	climbing	Bar chart of the total number from each country, and could you list by the total number from high to low please?
+485@y_name@ASC	Bar	Medium	climbing	Display a bar chart for how many climbers are from each country?, and list from low to high by the the total number please.
+486@y_name@ASC	Bar	Medium	climbing	Display a bar chart for what are the names of climbers and the corresponding heights of the mountains that they climb?, rank y axis from low to high order.
+490@y_name@ASC	Bar	Hard	climbing	What are the countries of mountains with height bigger than 5000, and count them by a bar chart, and I want to list y-axis in asc order.
+513	Bar	Medium	college_1	Find the total credits of all classes offered by each department. Visualize by bar chart.
+515@x_name@DESC	Bar	Medium	college_1	Return a bar chart on how many departments are in each school?, I want to show from high to low by the X.
+532@y_name@DESC	Bar	Medium	college_1	Find the average gpa of all students in each department with a bar chart, sort from high to low by the Y please.
+533@y_name@DESC	Bar	Easy	college_1	What is the lowest student GPA for every department? Return a bar chart, display in desc by the Y.
+535	Pie	Easy	college_1	Find the minimum gpa of all students in each department with a pie chart.
+540	Grouping Scatter	Easy	college_1	Find the relationship between minimum and maximum gpa of all students in each department with a scatter chart grouping by department code.
+543@y_name@DESC	Bar	Medium	college_1	A bar chart about how many different locations does each school have?, and sort from high to low by the Y-axis.
+545@x_name@DESC	Bar	Hard	college_1	Find the number of professors for each first name with a bar chart, I want to show from high to low by the bar.
+548	Line	Hard	college_1	What is the date of birth of professors teaching course ACCT-211? Bin the  date by year interval in a line chart.
+560@x_name@DESC	Bar	Hard	college_1	How many courses for each course description? Show me a bar chart, list by the X in desc.
+574@y_name@DESC	Bar	Hard	college_1	How many different professors are there for the different schools Show bar chart, list y axis from high to low order.
+576@y_name@ASC	Bar	Extra Hard	college_1	How many students taking a course who received an A or C? Group by students' first name with a bar chart, and show by the how many stu fname in asc please.
+582@y_name@ASC	Stacked Bar	Extra Hard	college_1	How many courses each teacher taught? Show me a stacked bar chart The x-axis is the teacher's first name and group by course description, and list Y-axis from low to high order.
+586@x_name@ASC	Bar	Medium	college_1	Show me a bar chart for what is the total credit does each department offer?, rank from low to high by the bars.
+586	Bar	Easy	college_1	Show me a bar chart for what is the total credit does each department offer?
+679	Bar	Easy	company_employee	Show the different headquarters and number of companies at each headquarter with a bar chart.
+681	Pie	Easy	company_employee	A pie chart showing the number of companies for each industry.
+683@y_name@DESC	Bar	Medium	company_employee	Show the number of headquarters from each headquarters, and I want to show y-axis from high to low order please.
+685@y_name@DESC	Bar	Medium	company_office	, and show in desc by the total number.
+685@x_name@ASC	Bar	Medium	company_office	Plot the total number by grouped by industry as a bar graph, and sort in ascending by the Industry.
+686@x_name@DESC	Bar	Hard	company_office	Return a bar chart showing the number of each company whose office is located in the building, and order in desc by the bar.
+686@y_name@DESC	Bar	Hard	company_office	Return a bar chart showing the number of each company whose office is located in the building, and sort total number from high to low order.
+686@y_name@ASC	Bar	Hard	company_office	List the number of each company whose office is in the building in a bar chart, list from low to high by the Y-axis.
+693@x_name@ASC	Bar	Medium	concert_singer	Give me a bar chart for the number of country of each country, list by the x-axis from low to high please.
+693@y_name@ASC	Bar	Medium	concert_singer	Show the number of singers in each country with a bar chart, display by the the number of country in asc.
+696@x_name@ASC	Bar	Medium	concert_singer	What is the average age of singers for each country? Visualize with a bar chart, show X-axis in ascending order.
+700@x_name@ASC	Bar	Hard	concert_singer	Give me a histogram for what are the names of the singers and number of concerts for each person?, order in asc by the names please.
+700@x_name@DESC	Bar	Hard	concert_singer	Give me a histogram for what are the names of the singers and number of concerts for each person?, and list by the Name in descending please.
+705@x_name@ASC	Bar	Hard	concert_singer	What is the number of each theme? Plot as a bar chart, and list x-axis in ascending order.
+715	Bar	Medium	course_teach	Show the number of courses each teacher teaches in a bar chart.
+715@y_name@ASC	Bar	Hard	course_teach	What is the number of courses each teacher teaches? Visualze with a bar chart, and sort y axis in asc order.
+723@x_name@ASC	Bar	Hard	cre_Doc_Control_Systems	Show a bar chart about how many employees does each role have?, sort x-axis from low to high order.
+753@x_name@ASC	Bar	Medium	cre_Doc_Template_Mgt	Visualize a bar chart for what are the different template type codes, and how many templates correspond to each?, I want to sort from low to high by the x axis.
+769@y_name@ASC	Bar	Medium	cre_Doc_Tracking_DB	Bar chart x axis location code y axis how many location code, and show by the Y-axis in ascending.
+779@x_name@DESC	Grouping Line	Extra Hard	cre_Doc_Tracking_DB	Show the number of documents in different ending date Bin ending date by year interval and group by location code with a group line chart, display by the X-axis from high to low please.
+791@y_name@ASC	Bar	Medium	cre_Doc_Tracking_DB	Create a bar chart showing the total number across location code, and list by the total number in ascending.
+793@y_name@DESC	Bar	Hard	cre_Doc_Tracking_DB	Return a bar chart showing the number of documents stored in each weekday, order from high to low by the total number.
+803@y_name@ASC	Bar	Medium	cre_Docs_and_Epenses	what are the different budget type codes, and how many documents are there for each?, could you order in ascending by the the total number please?
+803@x_name@ASC	Bar	Medium	cre_Docs_and_Epenses	what are the different budget type codes, and how many documents are there for each?, display by the x axis in ascending.
+816@y_name@ASC	Bar	Hard	cre_Docs_and_Epenses	Show the sum of account details for different statement details in a bar chart, and sort in ascending by the y-axis.
+819	Scatter	Easy	cre_Docs_and_Epenses	Show the correlation between statement id and account detail in a scatter chart.
+824@x_name@ASC	Bar	Medium	cre_Docs_and_Epenses	Return the ids and details corresponding to projects for which there are more than two documents Show bar chart, and sort x-axis from low to high order.
+827@x_name@DESC	Bar	Medium	cre_Docs_and_Epenses	List document type codes and the number of documents in each code Visualize by bar chart, and sort X-axis from high to low order.
+830	Scatter	Medium	cre_Docs_and_Epenses	Return a scatter chart on how many documents are with document type code BK for each product id?
+833@y_name@ASC	Bar	Hard	cre_Docs_and_Epenses	Show the number of documents for different budget type description in a bar chart, and I want to order by the y-axis in asc.
+850@x_name@ASC	Grouping Line	Extra Hard	cre_Docs_and_Epenses	How many documents are created in each day? Bin the document date by year interval and group by document type description with a group line chart, and I want to show in ascending by the X-axis.
+851@y_name@ASC	Stacked Bar	Extra Hard	cre_Docs_and_Epenses	How many documents are created in each day? Bin the document date by weekday and group by document type description with a stacked bar chart, sort from low to high by the total number.
+853	Bar	Hard	cre_Docs_and_Epenses	Show the number of documents in each day for all documents on project with details 'Graph Database project' and bin document date by weekday with a bar chart.
+854@x_name@DESC	Grouping Line	Extra Hard	cre_Docs_and_Epenses	Show the number of documents in each day for all documents on project with details 'Graph Database project' and bin document date by year interval and group by document name with a group line chart, I want to list in descending by the x-axis.
+857@y_name@ASC	Bar	Extra Hard	cre_Drama_Workshop_Groups	What are the number of the names of the workshop groups that have bookings with status code "stop"?, list how many store name from low to high order.
+872@x_name@DESC	Bar	Medium	cre_Drama_Workshop_Groups	Show all payment method codes and the number of orders for each code Show bar chart, display X from high to low order.
+882@y_name@DESC	Bar	Hard	cre_Drama_Workshop_Groups	How many drama workshop groups are there in each city? Return both the city and the count with a bar chart, sort Y from high to low order.
+907@x_name@ASC	Bar	Medium	culture_company	Show all book categories and the number of books in each category, list in asc by the bar.
+909@x_name@DESC	Bar	Medium	customer_complaints	What is the average price of the products for each category, and sort bars in descending order.
+932	Bar	Easy	customers_and_invoices	Show the number of accounts opened in each day. Bin the account open day by weekday in a bar chart.
+932@y_name@DESC	Bar	Medium	customers_and_invoices	Show the number of accounts opened in each day Bin the account open day by weekday in a bar chart, and could you display Y-axis in descending order?
+956	Scatter	Easy	customers_and_invoices	Show the relationship between account id and name for all accounts in a scatter chart.
+972@x_name@DESC	Bar	Medium	customers_and_invoices	Show sum transaction amount from each transaction type, and sort from high to low by the X-axis.
+995@y_name@DESC	Bar	Hard	customers_and_products_contacts	Show the number of addrens history for each customer in a bar chart, and display y-axis in desc order.
+1006@x_name@DESC	Bar	Extra Hard	customers_and_products_contacts	Show the number of products with price higher than 1000 or lower than 500 for each product type code in a bar chart, rank x axis in descending order.
+1009@x_name@ASC	Bar	Extra Hard	customers_and_products_contacts	Show the number of products with price higher than 1000 or lower than 500 for each product name in a bar chart, order x axis from low to high order please.
+1032@y_name@DESC	Bar	Medium	customers_card_transactions	Show the transaction type and the number of transactions by a bar chart, and display in desc by the y axis.
+1037@x_name@ASC	Bar	Medium	customers_card_transactions	How many customers for different customer last name? Draw a bar chart, and show names from low to high order.
+1042	Pie	Easy	customers_card_transactions	Show the number of cards in different card type code in a pie chart.
+1048	Bar	Easy	customers_card_transactions	卡号求和无意义
+1060@x_name@DESC	Bar	Hard	customers_card_transactions	Show the card type codes and the number of transactions with a bar chart, show by the X in descending.
+1074	Bar	Hard	debate	Show the number of debates for each person on the negative side in a bar chart, ordered in ascending alphabetical order of name.
+1077	Bar	Easy	debate	A bar chart showing how many debates are held for each venue.
+1080@x_name@DESC	Bar	Hard	debate	Show the number of debates for each person on the affirmative side in a bar chart, and rank X in desc order.
+1083@x_name@DESC	Bar	Hard	debate	Show the names of people and the number of times they have been on the affirmative side of debates by a bar chart, sort in descending by the x-axis.
+1083	Bar	Medium	debate	Show the names of people and the number of times they have been on the affirmative side of debates by a bar chart.
+1084	Pie	Easy	decoration_competition	How many members are there in each country? Visualize in a pie chart.
+1105@y_name@ASC	Bar	Extra Hard	department_management	Show the name and number of employees for the departments managed by heads whose temporary acting value is 'Yes', and could you rank in ascending by the Y-axis?
+1110	Bar	Easy	department_management	Show the number of heads of departments born in each state with a bar chart.
+1112@y_name@ASC	Bar	Medium	department_management	Show me mean age by born state in a histogram, rank by the y axis in asc.
+1131	Pie	Easy	department_store	Give the minimum product price for each product type in a pie chart.
+1147@y_name@ASC	Bar	Hard	device	Show how many carrriers for each shops in a bar chart, could you list y-axis in asc order?
+1161@x_name@DESC	Bar	Medium	dog_kennels	Find the id and cell phone of the professionals who operate two or more types of treatments, and sort by the names from high to low.
+1163	Bar	Medium	dog_kennels	List the number of treatments in each month with a bar chart.
+1175@x_name@ASC	Bar	Extra Hard	dog_kennels	How many professionals did not operate any treatment on dogs for each role? Draw a bar chart, and order in ascending by the x-axis.
+1175@y_name@DESC	Bar	Extra Hard	dog_kennels	Give me the number of professionals who did not perform any treatment on dogs for each role in a bar chart, and I want to rank in descending by the total number.
+1189	Bar	Medium	dog_kennels	How many dogs who have gone through a treatment departed in each year? Return a bar chart that bins arrived date by day interval.
+1189@y_name@DESC	Bar	Hard	dog_kennels	How many dogs who have gone through a treatment departed in each year? Return a bar chart that bins arrived date by day interval, list by the Y-axis in descending.
+1197@y_name@DESC	Bar	Hard	dog_kennels	List the number of dogs each owner has in a bar chart that groups by owner's first name, sort in descending by the total number.
+1199@x_name@DESC	Bar	Hard	dog_kennels	Draw a bar chart for what are the cost and treatment type description of each treatment?, and order in descending by the x-axis.
+1200	Bar	Medium	dog_kennels	List the cost of each treatment and the corresponding treatment type description by a bar chart.
+1200@y_name@DESC	Bar	Hard	dog_kennels	Display a bar chart for what are the cost and treatment type description of each treatment?, and could you show by the Y in descending?
+1202@y_name@ASC	Bar	Hard	dog_kennels	How many dogs for each size code? Return a bar chart, I want to display by the Y from low to high.
+1203@y_name@DESC	Bar	Hard	dog_kennels	How many dogs each owner has? Return a bar chart that groups by owner's first name, could you sort y-axis from high to low order?
+1273@y_name@DESC	Bar	Hard	e_learning	List the name and the number of enrolled student for each course Show bar chart, and I want to show Y from high to low order please.
+1283	Bar	Easy	e_learning	Find the student ID and personal name of the student with at least two enrollments. 
+1290	Scatter	Medium	e_learning	Show the relationship between the subject ID and the corresponding number of courses for each subject in a scatter chart.
+1295	Bar	Easy	e_learning	Find the student ID and middle name for all the students with at most two enrollments. 
+1302@x_name@DESC	Bar	Hard	election	Show how many delegates in each county with a bar chart, and order in desc by the County_name.
+1304	Bar	Easy	election	Show the county name and population of all counties with a bar chart.
+1306@x_name@ASC	Bar	Hard	election	Please compare the number of names of parties using a bar chart, show x axis in asc order.
+1306	Bar	Medium	election	Please compare the number of names of parties using a bar chart.
+1306@y_name@DESC	Bar	Hard	election	Please compare the number of names of parties using a bar chart, and could you order in descending by the total number?
+1307@y_name@DESC	Bar	Hard	election	For each party, return the name of the party and the number of delegates from that party Plot them as bar chart, and show total number in desc order.
+1311	Bar	Medium	election	Show how many delegates in each party with a bar chart.
+1317@x_name@DESC	Bar	Extra Hard	election	Which committees have delegates from the Democratic party, and count them by a bar chart, I want to rank x axis from high to low order.
+1322	Bar	Extra Hard	election	A bar chart for finding the number of the parties associated with the delegates from district 1 or 2. Who served as comptrollers of the parties?
+1341	Bar	Easy	employee_hire_evaluation	Visualize a bar chart about the distribution of  Start_from and the average of Shop_ID bin start_from by weekday.
+1347@y_name@ASC	Bar	Medium	employee_hire_evaluation	Draw a bar chart of is full time versus sum employee id, and could you list by the total number in asc?
+1361@x_name@DESC	Line	Medium	employee_hire_evaluation	For the average of Employee_ID, Start_from, visualize the trend, rank in desc by the x axis.
+1371	Bar	Easy	entrepreneur	Display a bar chart for what are the investors of entrepreneurs and the corresponding number of entrepreneurs invested by each investor?
+1371@x_name@DESC	Bar	Medium	entrepreneur	Display a bar chart for what are the investors of entrepreneurs and the corresponding number of entrepreneurs invested by each investor?, rank in descending by the bar please.
+1372	Pie	Easy	entrepreneur	Show the number of companies each investor has invested with a pie chart.
+1373@y_name@ASC	Bar	Medium	entrepreneur	How many companies each investor has invested? Show me a bar chart, and I want to show Y in asc order.
+1389	Pie	Medium	farm	How many competitions are held in each city? Draw a pie chart.
+1434	Pie	Hard	formula_1	A pie chart for finding the number of the names of Japanese constructors that have once earned more than 5 points?
+1435@y_name@ASC	Bar	Extra Hard	formula_1	Find the names of Japanese constructors that have once earned more than 5 points, and count them by a bar chart, and display by the Y in ascending.
+1435@y_name@DESC	Bar	Extra Hard	formula_1	Find the number of the names of Japanese constructors that have once earned more than 5 points?, and rank in desc by the Y-axis.
+1437@y_name@ASC	Bar	Extra Hard	formula_1	Show me a bar chart about the number of races held in each year after 2014, and I want to list y axis from low to high order please.
+1448	Line	Hard	formula_1	Show the number of races that had any driver whose forename is Lewis in each year with a line chart.
+1451@x_name@DESC	Bar	Extra Hard	formula_1	Show me a bar chart about the number of races held in each year after 2014, and order X-axis from high to low order please.
+1482@x_name@DESC	Grouping Line	Hard	game_injury	List the number of games in each season and group by home team in a group line chart, order by the X-axis from high to low.
+1482@x_name@ASC	Grouping Line	Hard	game_injury	List the number of games in each season and group by home team in a group line chart, could you rank by the Season in ascending please?
+1491@y_name@ASC	Bar	Medium	game_injury	Show me how many home team by home team in a histogram, and I want to order how many home team in ascending order.
+1508	Bar	Easy	gas_company	Show all main industry and total market value in each industry by a bar chart.
+1510@y_name@ASC	Bar	Hard	gas_company	Show the number of companies without a gas station in each main industry with a bar chart, could you list from low to high by the Y?
+1515	Pie	Medium	gas_company	Show the company name with the number of gas station in a pie chart.
+1521@y_name@DESC	Bar	Hard	gymnast	Show me a bar chart for how many gymnasts are from each hometown?, could you sort by the Y-axis from high to low?
+1562@y_name@ASC	Bar	Extra Hard	hr_1	For all employees who have the letters D or S in their first name, give me the comparison about the sum of salary over the job_id , and group by attribute job_id, and order y-axis in asc order.
+1562@x_name@ASC	Bar	Extra Hard	hr_1	For all employees who have the letters D or S in their first name, return a bar chart about the distribution of job_id and the sum of salary , and group by attribute job_id, display by the bars in asc please.
+1564@x_name@DESC	Bar	Extra Hard	hr_1	For all employees who have the letters D or S in their first name, show me about the distribution of job_id and the sum of manager_id , and group by attribute job_id in a bar chart, order by the x axis in desc.
+1567@x_name@ASC	Bar	Extra Hard	hr_1	For all employees who have the letters D or S in their first name, give me the comparison about the average of department_id over the job_id , and group by attribute job_id by a bar chart, order by the JOB_ID in asc.
+1570	Scatter	Hard	hr_1	For all employees who have the letters D or S in their first name, draw a scatter chart about the correlation between  salary and  manager_id .
+1578	Line	Hard	hr_1	For all employees who have the letters D or S in their first name, draw a line chart about the change of  employee_id over  hire_date .
+1579@x_name@DESC	Line	Extra Hard	hr_1	For all employees who have the letters D or S in their first name, give me the trend about manager_id over hire_date , display in descending by the x-axis.
+1585@y_name@ASC	Bar	Extra Hard	hr_1	For those employees whose salary is in the range of 8000 and 12000 and commission is not null or department number does not equal to 40, show me about the distribution of hire_date and the average of salary bin hire_date by time in a bar chart, display by the y-axis in ascending.
+1591@y_name@DESC	Bar	Extra Hard	hr_1	For those employees whose salary is in the range of 8000 and 12000 and commission is not null or department number does not equal to 40, visualize a bar chart about the distribution of hire_date and the average of employee_id bin hire_date by weekday, sort by the y axis from high to low.
+1597@y_name@DESC	Bar	Extra Hard	hr_1	For those employees whose salary is in the range of 8000 and 12000 and commission is not null or department number does not equal to 40, give me the comparison about the average of department_id over the hire_date bin hire_date by weekday, display by the total number in desc.
+1597@y_name@ASC	Bar	Extra Hard	hr_1	For those employees whose salary is in the range of 8000 and 12000 and commission is not null or department number does not equal to 40, a bar chart shows the distribution of hire_date and the average of department_id bin hire_date by weekday, list by the Y from low to high.
+1599@x_name@ASC	Line	Hard	hr_1	For those employees whose salary is in the range of 8000 and 12000 and commission is not null or department number does not equal to 40, return a line chart about the change of manager_id over hire_date , and show from low to high by the HIRE_DATE.
+1604@x_name@DESC	Bar	Extra Hard	hr_1	For those employees whose salary is in the range of 8000 and 12000 and commission is not null or department number does not equal to 40, visualize a bar chart about the distribution of job_id and the sum of manager_id , and group by attribute job_id, order by the names from high to low.
+1611	Scatter	Medium	hr_1	For those employees whose salary is in the range of 8000 and 12000 and commission is not null or department number does not equal to 40, visualize the relationship between  salary and  commission_pct .
+1618	Scatter	Medium	hr_1	For those employees whose salary is in the range of 8000 and 12000 and commission is not null or department number does not equal to 40, visualize the relationship between  manager_id and  department_id .
+1621@x_name@DESC	Line	Hard	hr_1	For those employees whose salary is in the range of 8000 and 12000 and commission is not null or department number does not equal to 40, a line chart shows the trend of commission_pct over hire_date , and order in descending by the HIRE_DATE please.
+1626@y_name@ASC	Bar	Hard	hr_1	Visualize a bar chart for what is the average salary for each job title?, and rank in ascending by the Y please.
+1633	Scatter	Easy	hr_1	Find the salary and manager number for those employees who is working under a manager. 
+1661@y_name@ASC	Bar	Hard	hr_1	For those employees who do not work in departments with managers that have ids between 100 and 200, show me about the distribution of hire_date and the sum of department_id bin hire_date by weekday in a bar chart, I want to rank from low to high by the Y please.
+1679@y_name@DESC	Bar	Medium	hr_1	For those employees who do not work in departments with managers that have ids between 100 and 200, show me about the distribution of email and salary in a bar chart, rank total number in descending order.
+1687@y_name@ASC	Bar	Medium	hr_1	For those employees who do not work in departments with managers that have ids between 100 and 200, give me the comparison about salary over the job_id , rank by the Y-axis in ascending.
+1697@x_name@DESC	Line	Medium	hr_1	For those employees who do not work in departments with managers that have ids between 100 and 200, draw a line chart about the change of manager_id over hire_date , and show in descending by the X.
+1721	Bar	Medium	hr_1	For those employees who did not have any job in the past, show me about the distribution of  hire_date and the average of employee_id bin hire_date by weekday in a bar chart.
+1723@y_name@ASC	Bar	Hard	hr_1	For those employees who did not have any job in the past, show me about the distribution of hire_date and the average of salary bin hire_date by weekday in a bar chart, sort by the y-axis in ascending.
+1731@x_name@ASC	Bar	Hard	hr_1	For those employees who did not have any job in the past, show me about the distribution of job_id and the average of employee_id , and group by attribute job_id in a bar chart, and order from low to high by the names please.
+1731@y_name@ASC	Bar	Hard	hr_1	For those employees who did not have any job in the past, a bar chart shows the distribution of job_id and the average of employee_id , and group by attribute job_id, sort by the Y-axis from low to high.
+1734@x_name@ASC	Bar	Hard	hr_1	For those employees who did not have any job in the past, give me the comparison about the sum of manager_id over the job_id , and group by attribute job_id by a bar chart, rank by the x axis in asc please.
+1737	Bar	Medium	hr_1	For those employees who did not have any job in the past, show me about the distribution of  job_id and the average of department_id , and group by attribute job_id in a bar chart.
+1737@x_name@DESC	Bar	Hard	hr_1	For those employees who did not have any job in the past, give me the comparison about the average of department_id over the job_id , and group by attribute job_id by a bar chart, and display from high to low by the JOB_ID.
+1739@x_name@ASC	Bar	Hard	hr_1	For those employees who did not have any job in the past, a bar chart shows the distribution of job_id and the amount of job_id , and group by attribute job_id, and show X-axis in asc order please.
+1751@x_name@ASC	Line	Medium	hr_1	For those employees who did not have any job in the past, visualize a line chart about the change of commission_pct over hire_date , and list x-axis in asc order.
+1751	Line	Easy	hr_1	For those employees who did not have any job in the past, return a line chart about the change of  commission_pct over  hire_date .
+1758	Bar	Medium	hr_1	For those employees who was hired before 2002-06-21, show me about the distribution of  hire_date and the sum of salary bin hire_date by time in a bar chart.
+1766	Bar	Medium	hr_1	For those employees who was hired before 2002-06-21, draw a bar chart about the distribution of  hire_date and the sum of salary bin hire_date by weekday.
+1790@x_name@DESC	Line	Medium	hr_1	For those employees who was hired before 2002-06-21, show me about the change of salary over hire_date in a line chart, and rank in descending by the x axis.
+1797@x_name@ASC	Bar	Medium	hr_1	You can give me a bar chart, that groups and counts the country name, and could you list from low to high by the bars please?
+1797	Bar	Easy	hr_1	You can give me a bar chart, that groups and counts the country name.
+1804@x_name@DESC	Bar	Extra Hard	hr_1	For employees with first names that end with the letter m, give me a bar chart to show their average salary, display from high to low by the bar.
+1806@y_name@DESC	Bar	Hard	hr_1	For those employees whose first name is ending with the letter m, visualize a bar chart to show each employee's salary by the last name, and could you show in desc by the y-axis please?
+1808	Pie	Hard	hr_1	For employees with first names that end with the letter m, give me a pie chart to show their total salary.
+1842	Bar	Easy	hr_1	Show the total salary by each hire date of employees, and please bin the hire date into the Month interval for showing a bar chart.
+1879	Scatter	Medium	hr_1	Does it have something interesting about the manager id and the location id?
+1896@x_name@DESC	Bar	Easy	hr_1	You can return a bar chart with employees' first names and their salaries, sort by the X in descending.
+1898@x_name@DESC	Bar	Easy	hr_1	Bar chart of department_id from each first name, order by the x-axis in descending.
+1898@y_name@DESC	Bar	Easy	hr_1	You can return a bar chart to show the employees' first name and the corresponding department's id, I want to list Y from high to low order.
+1900@y_name@ASC	Bar	Hard	hr_1	Just show the first name and the manager id with a bar chart, and order in ascending by the total number.
+1900@x_name@ASC	Bar	Hard	hr_1	Just show the first name and the manager id with a bar chart, and list by the bar in asc please.
+1902	Bar	Easy	hr_1	Just show the employee's last name and their employee id using a bar chart.
+1903@x_name@DESC	Bar	Easy	hr_1	Show me salary by last name in a histogram, list from high to low by the bars please.
+1903@y_name@DESC	Bar	Easy	hr_1	Show me salary by last name in a histogram, order total number from high to low order.
+1903	Bar	Easy	hr_1	Show each employee's salary using a bar chart, note that use the last name of each employee.
+1908@x_name@ASC	Bar	Hard	hr_1	Show me a bar chart, that simply displays the last name of the employee and the corresponding department's location id, and display bar in asc order.
+1910@x_name@ASC	Bar	Easy	hr_1	Plot salary by grouped by email as a bar graph, and rank x-axis in asc order.
+1931@x_name@DESC	Bar	Hard	hr_1	Visualize a bar chart for simply show the department of the employee and the corresponding salary, and display in descending by the DEPARTMENT_NAME please.
+1931@y_name@ASC	Bar	Hard	hr_1	Visualize a bar chart for simply show the department of the employee and the corresponding salary, show in asc by the Y please.
+1960	Scatter	Medium	hr_1	Please display the employee number, and salary for all employees who earn more than the average salary and who work in a department with any employee with a 'J' in their first name in a scatter plot.
+1963@x_name@DESC	Bar	Hard	hr_1	Give the name of each department and the number of employees in each Plot them as bar chart, show in desc by the bar.
+1969@y_name@ASC	Bar	Medium	inn_1	Give me a bar chart for the average of baseprice of each decor, and rank by the the average of baseprice in asc please.
+1970@x_name@ASC	Bar	Easy	inn_1	Show the minimum of the rooms in different decor using a bar chart, and display by the X-axis from low to high please.
+1977@x_name@DESC	Bar	Medium	inn_1	For each bed type, find the average room price Show bar chart, rank bar in desc order.
+1979@x_name@DESC	Bar	Hard	inn_1	Visualize a bar chart for how many rooms cost more than 120, for each different decor?, show bar from high to low order please.
+1979@y_name@DESC	Bar	Hard	inn_1	Give me a histogram for how many rooms cost more than 120, for each different decor?, could you order from high to low by the Y-axis?
+1982	Pie	Medium	inn_1	Using a pie chart to show the proportion of each type of bed.
+1984@x_name@DESC	Bar	Hard	inn_1	Return the name of rooms and the number of reservations made for each of the rooms to draw a bar chart, and rank in descending by the X-axis.
+1985	Bar	Medium	inn_1	Return the room and number of reservations made for each of the rooms to draw a bar chart.
+1992	Bar	Medium	insurance_policies	Among all the claims, which claims have a claimed amount larger than the average? Please Bin the date it was settled into weekday interval and count them to show a bar chart.
+1992@y_name@ASC	Bar	Hard	insurance_policies	For all the claims whose claimed amount is larger than the average, bin the settlement date into the day of week interval and count them for visualizing a bar chart, and order from low to high by the y axis please.
+1995	Stacked Bar	Extra Hard	insurance_policies	Give me a bar chart that bins the payment date into the Year interval and then shows the amount of each payment categorized by the payment method code, and then sort the bars in ascending order of date.
+2000	Stacked Bar	Extra Hard	insurance_policies	Give me a bar chart that bins the payment date into the day of the day of the week interval and then compute the total amount of each payment categorized by the payment method code, and then sort the bars in ascending order of date.
+2009	Pie	Easy	insurance_policies	Show me the proportion of each payment method code using a pie chart.
+2010@x_name@DESC	Bar	Medium	insurance_policies	Compare the frequency of each payment method code using a bar chart, and could you display x-axis in descending order please?
+2012@y_name@DESC	Bar	Medium	insurance_policies	Bar graph to show the average of amount payment from different payment method code, could you list the average of amount payment from high to low order?
+2014	Line	Medium	insurance_policies	Show the trend about the total amount of each payment about the payment day, line chart. Note that, you should order the payment day in ascending order.
+2017	Bar	Easy	insurance_policies	Bin the claim date into Year interval and count them for visualizing a bar chart.
+2017@y_name@ASC	Bar	Medium	insurance_policies	Bin the claim date into Year interval and count them for visualizing a bar chart, show Y-axis in asc order.
+2022@y_name@ASC	Bar	Hard	insurance_policies	Return the number of the claim start date for the claims whose claimed amount is no more than the average, could you show by the Y-axis in ascending?
+2024@y_name@DESC	Bar	Hard	insurance_policies	For those payments processed with Visa, bin the payment day into Year interval and count them for a bar chart, order from high to low by the y axis.
+2030@x_name@ASC	Bar	Medium	insurance_policies	Give me a histogram to show the date and the amount for all the payments processed with Visa, and show Date_Payment_Made in ascending order please.
+2052	Bar	Extra Hard	journal_committee	Give me a bar chart to show the theme and their sales of the journal which did not have any of the listed editors serving on the committee.
+2052@y_name@ASC	Bar	Extra Hard	journal_committee	Give me a bar chart to show the theme and their sales of the journal which did not have any of the listed editors serving on the committee, and I want to order by the total number in ascending.
+2052@x_name@DESC	Bar	Extra Hard	journal_committee	Give me a bar chart to show the theme and their sales of the journal which did not have any of the listed editors serving on the committee, rank in descending by the x axis.
+2053@x_name@ASC	Bar	Easy	journal_committee	Visualize a bar chart to show editors' names and their ages, and I want to sort from low to high by the Name.
+2060@x_name@ASC	Bar	Extra Hard	journal_committee	A bar chart for showing the number of the names of editors that are on the committee of journals with sales bigger than 3000, sort Name in asc order.
+2066@y_name@ASC	Bar	Hard	loan_1	Visualize a bar chart for what are the names and account balances of customers with the letter 'a' in their names?, and list y axis in ascending order.
+2069	Pie	Easy	loan_1	Find the name and credit score of the customers who have some loans. Plot them as pie chart.
+2075	Bar	Extra Hard	local_govt_and_lot	Give me a bar chart to show the proportion of each type of the thing that has the status 'Close' or has a status record before the date '2017-06-19 02:59:21'.
+2081@y_name@ASC	Stacked Bar	Extra Hard	local_govt_and_lot	Give me a stacked bar chart to show how many things in different types of each thing, and the details of the organization that owns it, list by the total number in asc.
+2102@y_name@DESC	Bar	Hard	local_govt_and_lot	Please use a bar chart to compare the number of customers of each customer's move-in date, note that you should bin move-in date into Day Of Week interval, sort in descending by the Y.
+2108@y_name@ASC	Bar	Easy	local_govt_and_lot	Just list the resident id and details in a bar chart, and rank in ascending by the resident_id.
+2110@y_name@DESC	Bar	Medium	local_govt_and_lot	Give me a bar chart that the X-axis is the date_moved_in and the Y-axis is Count them, please bin X-axis into Year interval, rank by the y axis from high to low please.
+2119@y_name@DESC	Bar	Medium	local_govt_and_lot	Group and count the move in date in a bar chart, and bin the X-axis into week day interval, order y-axis in desc order.
+2130	Bar	Easy	local_govt_in_alabama	List all the participant ids and their details using a bar chart.
+2135@x_name@ASC	Bar	Medium	local_govt_in_alabama	Bar chart x axis event details y axis how many event details, rank in ascending by the bars please.
+2143@x_name@DESC	Bar	Hard	local_govt_in_alabama	How many events have each participants attended? Show their total number by each participant type code using a bar chart, and could you display X-axis from high to low order?
+2144@x_name@DESC	Bar	Hard	local_govt_in_alabama	How many events have each participants attended? Show their average number by each participant type code using a bar chart, and list by the x axis in desc.
+2149@x_name@ASC	Bar	Hard	local_govt_in_alabama	Give me a bar chart to show the number of event details of events that have more than one participant, list x axis in ascending order.
+2162@y_name@DESC	Bar	Extra Hard	machine_repair	What are the number of the names of the technicians that are assigned to repair machines with more point values than 70?, and order from high to low by the total number.
+2164@x_name@ASC	Bar	Hard	machine_repair	What are the names of technicians with the machine series that they repair? Show me how many machines for each technician's name, I want to display by the x-axis in ascending.
+2167	Bar	Medium	machine_repair	Show names of technicians and the number of machines they are assigned to repair with a bar chart.
+2169@y_name@ASC	Bar	Medium	machine_repair	Show different teams of technicians and the number of technicians in each team with a bar chart, and order Y in ascending order.
+2174@y_name@DESC	Bar	Medium	manufactory_1	Give me a bar chart to show the names and revenue of the company that earns the highest revenue in each headquarter city, list in descending by the y axis.
+2178@y_name@ASC	Bar	Medium	manufactory_1	Give me a bar chart for sum price of each name, and display from low to high by the y-axis please.
+2181@x_name@ASC	Bar	Medium	manufactory_1	Return a bar chart on what is the total revenue of each manufacturer?, rank by the Name in asc.
+2181@y_name@ASC	Bar	Medium	manufactory_1	A bar chart about what is the total revenue of each manufacturer?, and show by the total number of revenue in asc.
+2203@y_name@DESC	Bar	Medium	manufactory_1	Compare the prices of each manufacturer's most expensive product with a bar chart, and list in descending by the price.
+2204@y_name@ASC	Bar	Hard	manufactory_1	For those records from the products and each product's manufacturer, show me about the distribution of name and the amount of name , and group by attribute name in a bar chart, sort y axis from low to high order.
+2218@x_name@ASC	Bar	Hard	manufactory_1	For those records from the products and each product's manufacturer, return a bar chart about the distribution of headquarter and the sum of price , and group by attribute headquarter, I want to show in ascending by the bar.
+2223@x_name@DESC	Bar	Hard	manufactory_1	For those records from the products and each product's manufacturer, give me the comparison about the average of code over the headquarter , and group by attribute headquarter by a bar chart, and show in desc by the x-axis.
+2223	Bar	Medium	manufactory_1	For those records from the products and each product's manufacturer, draw a bar chart about the distribution of  headquarter and the average of code , and group by attribute headquarter.
+2224@y_name@DESC	Bar	Hard	manufactory_1	For those records from the products and each product's manufacturer, show me about the distribution of headquarter and the sum of revenue , and group by attribute headquarter in a bar chart, and could you sort Y in desc order?
+2225@y_name@DESC	Bar	Hard	manufactory_1	For those records from the products and each product's manufacturer, show me about the distribution of headquarter and the average of revenue , and group by attribute headquarter in a bar chart, and order by the total number from high to low.
+2226@y_name@DESC	Bar	Hard	manufactory_1	For those records from the products and each product's manufacturer, show me about the distribution of founder and the amount of founder , and group by attribute founder in a bar chart, and list total number in desc order please.
+2226@x_name@ASC	Bar	Hard	manufactory_1	For those records from the products and each product's manufacturer, show me about the distribution of founder and the amount of founder , and group by attribute founder in a bar chart, rank by the bar in ascending please.
+2227@y_name@ASC	Bar	Hard	manufactory_1	For those records from the products and each product's manufacturer, give me the comparison about the sum of code over the founder , and group by attribute founder by a bar chart, sort from low to high by the total number of code.
+2228@x_name@ASC	Bar	Hard	manufactory_1	For those records from the products and each product's manufacturer, show me about the distribution of founder and the average of code , and group by attribute founder in a bar chart, display in ascending by the X please.
+2229@y_name@DESC	Bar	Hard	manufactory_1	For those records from the products and each product's manufacturer, a bar chart shows the distribution of founder and the sum of price , and group by attribute founder, sort in desc by the Y-axis.
+2232	Bar	Medium	manufactory_1	For those records from the products and each product's manufacturer, give me the comparison about the average of manufacturer over the  founder , and group by attribute founder by a bar chart.
+2233	Bar	Medium	manufactory_1	For those records from the products and each product's manufacturer, visualize a bar chart about the distribution of  founder and the sum of code , and group by attribute founder.
+2236	Bar	Medium	manufactory_1	For those records from the products and each product's manufacturer, show me about the distribution of  founder and the average of revenue , and group by attribute founder in a bar chart.
+2238	Stacked Bar	Medium	manufactory_1	For those records from the products and each product's manufacturer, draw a bar chart about the distribution of  name and  price , and group by attribute name.
+2238@y_name@ASC	Stacked Bar	Hard	manufactory_1	For those records from the products and each product's manufacturer, give me the comparison about price over the name , and group by attribute name by a bar chart, rank total number from low to high order.
+2242	Stacked Bar	Medium	manufactory_1	For those records from the products and each product's manufacturer, show me about the distribution of  name and  code , and group by attribute headquarter in a bar chart.
+2245@y_name@ASC	Stacked Bar	Hard	manufactory_1	For those records from the products and each product's manufacturer, a bar chart shows the distribution of name and code , and group by attribute headquarter, display in ascending by the y-axis.
+2248@x_name@ASC	Stacked Bar	Hard	manufactory_1	For those records from the products and each product's manufacturer, give me the comparison about price over the name , and group by attribute founder, and show in asc by the x-axis.
+2250@y_name@DESC	Stacked Bar	Hard	manufactory_1	For those records from the products and each product's manufacturer, return a bar chart about the distribution of name and code , and group by attribute founder, and display by the total number from high to low please.
+2254@y_name@DESC	Bar	Hard	manufactory_1	For those records from the products and each product's manufacturer, give me the comparison about the average of code over the name , and group by attribute name, I want to sort by the the average of code in desc.
+2305@y_name@DESC	Bar	Hard	manufactory_1	What are the average prices of products, grouped by manufacturer name, could you show in desc by the y-axis?
+2312@x_name@ASC	Bar	Medium	manufacturer	Visualize names and market shares of furnitures which no any company is producing in our records by a bar chart, show in ascending by the bars.
+2316@x_name@ASC	Bar	Medium	match_season	Bar chart of the number of years played from each years played, sort x-axis from low to high order.
+2317@x_name@DESC	Bar	Medium	match_season	What are the draft pick numbers and draft classes for players who play the Defender position Show bar chart, and could you order x-axis in descending order?
+2318	Pie	Medium	match_season	Show the country names and the corresponding number of players in a pie chart.
+2323@y_name@ASC	Bar	Extra Hard	match_season	Give me a bar chart that groups and counts the years played for players from team "Columbus Crew", and sort Y in asc order.
+2328	Pie	Easy	medicine_enzyme_interaction	Pie chart. what are the ids and names of the medicine that can interact with two or more enzymes?
+2329@y_name@DESC	Bar	Medium	medicine_enzyme_interaction	Visualize a bar chart for what are the ids and names of the medicine that can interact with two or more enzymes?, display from high to low by the id.
+2347@y_name@DESC	Bar	Extra Hard	mountain_photos	A bar chart for what are the number of the names of photos taken with the lens brand 'Sigma' or 'Olympus'?, show from high to low by the Y-axis.
+2349@x_name@DESC	Bar	Medium	mountain_photos	Show the number of brand from each brand, and list x-axis in desc order.
+2349@x_name@ASC	Bar	Medium	mountain_photos	Group and count brand for each camera lens using a bar chart, sort by the bar in ascending.
+2350	Pie	Easy	mountain_photos	Group and count the color scheme for all the photos using a pie chart.
+2412@y_name@ASC	Bar	Medium	museum_visit	histogram, X-axis is the name and the Y is the age for visitors who visited some museums more than 1 times, order y axis in ascending order.
+2417	Bar	Easy	museum_visit	Can you give me a bar chart to show the name and membership level of the visitors whose membership level is higher than 4.
+2436	Bar	Easy	music_4	Return the number of music festivals of each category in a bar chart.
+2436@x_name@DESC	Bar	Medium	music_4	Return the number of music festivals of each category, show by the Category in desc.
+2438	Pie	Medium	music_4	What are the category of music festivals with result "Awarded", and count them by a pie chart
+2459@y_name@ASC	Bar	Medium	network_2	A bar chart about what is average age for different job title?, and rank y axis in ascending order.
+2465	Bar	Medium	network_2	Find the number of people who is under 40 for each gender. 
+2487	Bar	Easy	news_report	Return a histogram on what are the nationalities and the total ages of journalists?
+2494@y_name@ASC	Bar	Medium	orchestra	Display a bar chart for how many orchestras does each record company manage?, display by the Y in ascending.
+2495	Bar	Medium	orchestra	What are the record companies of orchestras in descending order of years in which they were founded, and count them by a bar chart
+2506	Pie	Easy	party_host	Count the total number of different locations of parties using a pie chart.
+2507	Bar	Easy	party_host	Give me a bar chart, that group by location and count them.
+2507@y_name@DESC	Bar	Medium	party_host	Give me a bar chart, that group by location and count them, list Y in descending order.
+2517@y_name@DESC	Bar	Hard	party_people	Which ministers are not a part of the Progress Party, and count them by a bar chart, I want to show Y-axis from high to low order.
+2526	Pie	Easy	party_people	Show the proportion of all ministers using a pie chart.
+2527@x_name@DESC	Bar	Medium	party_people	Compare the total number of each minister using a bar graph, rank in descending by the x-axis.
+2575@x_name@DESC	Bar	Hard	phone_market	For each phone, show its names and total number of stocks Visualize by bar chart, and rank by the bars in desc please.
+2580	Pie	Medium	phone_market	Show the proportion of names of phones with a pie chart.
+2585	Bar	Easy	pilot_record	Please compare the frequency of the position of the pilots using a bar chart.
+2601@y_name@ASC	Bar	Extra Hard	product_catalog	Find the names and publication dates of all catalogs that have catalog level numbers greater than 5 Bin publication dates into Year interval, and count catalog as a bar chart, display by the Y from low to high.
+2603@x_name@ASC	Line	Medium	product_catalog	Find the dates on which more than one revisions were made, and the bin the date of latest revision into weekday interval and count them as a line chart, sort by the x axis from low to high.
+2605@x_name@DESC	Bar	Medium	product_catalog	Visualize a bar chart for what are the name and level of catalog structure with level number between 5 and 10, and show from high to low by the x-axis.
+2607@x_name@DESC	Bar	Medium	product_catalog	Which catalog contents has price above 700 dollars? Show their catalog entry names and capacities, list in desc by the x-axis.
+2614@x_name@ASC	Bar	Hard	products_for_hire	How many bookings did each customer make? List the first name as the X-axis, and the count as the Y-axis in the bar chart, show in ascending by the X-axis please.
+2621	Bar	Extra Hard	products_gen_characteristics	Find the number of the category descriptions of the products whose descriptions include letter 't'.
+2621@y_name@ASC	Bar	Extra Hard	products_gen_characteristics	What are the number of the descriptions of the categories that products with product descriptions that contain the letter t are in?, rank y-axis in ascending order.
+2625	Bar	Easy	program_share	Find the total rating ratio for each channel owner. Visualize by bar chart.
+2635	Pie	Medium	protein_institute	Show the names and heights of buildings with at least two institutions founded after 1880 in a pie chart.
+2658	Bar	Easy	railway	How many trains in each name category, give me the result with a bar chart.
+2671@x_name@ASC	Bar	Hard	riding_club	For players whose occupation is not "Researcher", tell me the distribution of their residences with a bar chart, and list names in ascending order.
+2677	Bar	Easy	riding_club	Compare the distribution of the players' gender using a bar chart.
+2678	Bar	Easy	riding_club	Compare the number of players of different occupations using a bar chart.
+2681@y_name@DESC	Bar	Medium	riding_club	Show different occupations along with the number of players in each occupation Show bar chart, and show y-axis from high to low order.
+2691@x_name@ASC	Bar	Hard	sakila_1	How many films are there in each category? List the genre name and the count with a bar chart, and rank by the X-axis from low to high.
+2691@x_name@DESC	Bar	Hard	sakila_1	What are the names of the different categories, and how many films are in each? Show me the bar graph, and sort names from high to low order.
+2699@y_name@DESC	Bar	Easy	school_bus	Bar graph to show age from different name, sort Y in descending order please.
+2702	Bar	Easy	school_bus	Show the party and the number of drivers in each party with a bar chart.
+2704@x_name@DESC	Bar	Medium	school_finance	Draw a bar chart of county versus the total number, order in descending by the bars.
+2705	Pie	Easy	school_finance	Show the proportion of the total enrollment in each county with a pie chart.
+2706@x_name@ASC	Bar	Medium	school_finance	Show sum enrollment from each county, and sort by the x axis in ascending.
+2706@x_name@DESC	Bar	Medium	school_finance	Please give me a bar chart for the total enrollment in each county, could you rank County in descending order?
+2738	Pie	Easy	ship_1	Show me a pie chart for what are the different ship flags, and how many ships have each?
+2753	Bar	Easy	ship_1	Compare the total number of captains with different classes using a bar graph.
+2756@x_name@DESC	Stacked Bar	Hard	ship_mission	Stack bar chart of the number of type vs Nationality based on type, and list x-axis in descending order.
+2758	Bar	Easy	ship_mission	What is the total number of each ship type? Give me a bar chart.
+2762@y_name@DESC	Bar	Medium	ship_mission	Show different types of ships and the number of ships of each type in a bar chart, display y-axis in desc order.
+2763@y_name@DESC	Bar	Medium	ship_mission	Show the number of fate from each fate, and rank by the y axis in desc please.
+2769@x_name@ASC	Bar	Medium	shop_membership	Count the hometown by hometown, I want to sort by the X-axis in asc.
+2769@x_name@DESC	Bar	Medium	shop_membership	Show the hometown of all members, and rank X-axis in desc order.
+2774@y_name@DESC	Bar	Medium	singer	Show me the total number by citizenship in a histogram, and display by the y-axis from high to low.
+2798@x_name@DESC	Bar	Medium	soccer_2	Bar graph to show minimal enr from different cname, could you display by the X in desc?
+2805	Bar	Medium	solvency_ii	List the number of the names of products that are not in any event.
+2807@y_name@DESC	Bar	Medium	solvency_ii	Give me a bar chart for the total number of each product type code, and list in descending by the Y-axis.
+2811@y_name@DESC	Bar	Medium	solvency_ii	What is the total number of names of products?, order in descending by the the number of product name.
+2812	Bar	Medium	solvency_ii	A bar chart for listing the number of the name of products in ascending order of price.
+2815@x_name@ASC	Stacked Bar	Hard	sports_competition	A stacked bar chart about the total number in each competition type, and then split by country, could you order by the bars from low to high?
+2816	Bar	Easy	sports_competition	How many competitions for each country?
+2816@y_name@ASC	Bar	Medium	sports_competition	How many competitions for each country?, and list by the total number in asc.
+2827@y_name@ASC	Bar	Medium	sports_competition	List the position of players and the average number of points of players of each position Visualize by bar chart, and could you sort by the total number in ascending?
+2828@x_name@ASC	Stacked Bar	Hard	station_weather	Stacked bar of services and how many services colored by local_authority, and display in ascending by the bar.
+2829@x_name@DESC	Stacked Bar	Hard	station_weather	count services by services, and split by local authorities with a stacked bar chart, and could you sort bars from high to low order?
+2829@x_name@ASC	Stacked Bar	Hard	station_weather	Compute the number of services by services and then split by local authorities Show the result with a stacked bar graph, show by the X-axis from low to high.
+2831@x_name@DESC	Bar	Medium	station_weather	Give me a bar chart for the number of services of each services, and could you display x-axis in desc order?
+2837@y_name@DESC	Bar	Hard	station_weather	Find the number of trains for each station, as well as the station network name Show the result with a bar graph, could you order Y from high to low order?
+2838	Bar	Easy	station_weather	Compare all train names' total numbers.
+2841@x_name@ASC	Bar	Medium	station_weather	Draw a bar chart for what is the average high temperature for each day of week?, rank x axis in asc order please.
+2845@y_name@DESC	Bar	Extra Hard	station_weather	Find names of trains that run through stations for the local authority Chiltern, compare the total number of name in a bar graph, and display by the Y from high to low.
+2845@x_name@ASC	Bar	Extra Hard	station_weather	Find names of trains that run through stations for the local authority Chiltern, compare the total number of name in a bar graph, sort x-axis from low to high order.
+2848	Bar	Extra Hard	store_1	List the top 5 genres by number of tracks. List genres name and total tracks with a bar chart.
+2856	Bar	Medium	store_1	List the number of invoices from the US, grouped by state by a bar chart.
+2860@y_name@DESC	Bar	Medium	store_product	What are the district names and city populations for all districts that between 200,000 and 2,000,000 residents? Show a bar graph, display in descending by the y axis.
+2862@x_name@ASC	Bar	Medium	store_product	For each type of store, how many of them are there Plot them as bar chart, and sort from low to high by the X.
+2869@x_name@DESC	Bar	Medium	storm_record	For all storms with at least 1 death, compare the total number of deaths by dates_active attribute, rank by the Dates_active in desc.
+2869	Bar	Easy	storm_record	For all storms with at least 1 death, show me the dates active and the total number of deaths with a bar chart.
+2874	Scatter	Easy	student_1	For each grade, report the correlation between grade and the total number of students in the grade.
+2876	Scatter	Medium	student_1	For each grade 0 classroom, report the total number of students. Visualize by scatter chart.
+2888@y_name@ASC	Bar	Medium	student_transcripts_tracking	A bar chart about what is the date and id of the transcript with at least 2 courses listed?, and order y-axis from low to high order.
+2908@y_name@ASC	Bar	Medium	swimming	Visualize a bar chart about the distribution of Nationality and the sum of meter_100 , and group by attribute Nationality, sort by the Y-axis in asc.
+2911	Bar	Easy	swimming	Show me about the distribution of  meter_200 and the average of ID , and group by attribute meter_200 in a bar chart.
+2912@y_name@DESC	Bar	Medium	swimming	Find meter_200 and the sum of meter_100 , and group by attribute meter_200, and visualize them by a bar chart, and display from high to low by the y-axis.
+2913@x_name@DESC	Bar	Medium	swimming	Show me about the distribution of meter_200 and the average of meter_100 , and group by attribute meter_200 in a bar chart, rank by the bars in descending please.
+2915@y_name@ASC	Bar	Easy	swimming	Draw a bar chart about the distribution of name and meter_100 , and list in asc by the total number.
+2916@y_name@ASC	Bar	Easy	swimming	Find meter_300 and ID , and visualize them by a bar chart, and display y-axis from low to high order.
+2921	Bar	Easy	swimming	Give me the comparison about  meter_100 over the  meter_500  by a bar chart.
+2923	Bar	Easy	swimming	Give me the comparison about  meter_100 over the  meter_600 .
+2924@x_name@DESC	Bar	Easy	swimming	Give me the comparison about ID over the meter_700 by a bar chart, and could you display x axis from high to low order?
+2931@x_name@DESC	Bar	Extra Hard	swimming	Find the number of the names of stadiums that some Australian swimmers have been to, and list in descending by the x axis.
+2934	Pie	Medium	theme_gallery	Find dates and attendance for exhibitions that happened in 2004, show me the proportion of attendance by date.
+2944@x_name@ASC	Bar	Easy	theme_gallery	What are the names and ages of artists? Show the result in a bar graph, and show x axis in asc order.
+2949@y_name@DESC	Stacked Bar	Hard	theme_gallery	Find those themes and years for all exhibitions with ticket prices lower than 15, group by themes, count year, and the x-axis is Year, show y-axis in descending order.
+2955@y_name@DESC	Bar	Hard	tracking_grants_for_research	Find the organisation ids and details of the organisations which are involved i Plot them as bar chart, rank total number in desc order please.
+2970	Bar	Medium	tracking_orders	List the name and count of each product in all orders with a bar chart.
+2973	Bar	Medium	tracking_orders	For each customer who has at least two orders, find the customer name and number of orders made. Visualize by bar chart.
+2985	Stacked Bar	Extra Hard	tracking_share_transactions	Find the transaction type descriptions and dates if the share count is smaller than 10, group by transaction type, count the date of transaction, and bin the date into the weekday interval.
+2987@x_name@DESC	Grouping Line	Extra Hard	tracking_share_transactions	Find the transaction type descriptions and dates if the share count is smaller than 10, group by transaction type, count the date of transaction, and bin the date into the weekday interval Show the result with a grouping line chart, and order by the x axis in descending.
+3015	Bar	Hard	tracking_share_transactions	For the sale details with amount smaller than 3000, visualize a bar chart that x-axis is the sales details and count them as y.
+3015@x_name@ASC	Bar	Extra Hard	tracking_share_transactions	For the sale details with amount smaller than 3000, visualize a bar chart that x-axis is the sales details and count them as y, rank names in asc order.
+3045@x_name@DESC	Bar	Medium	train_station	Create a bar chart showing total number of number of platforms across location, sort by the x-axis in desc.
+3052@x_name@ASC	Bar	Medium	train_station	Show all locations and the total number of platforms for all train stations in each location in a bar chart, sort by the Location in ascending.
+3100@x_name@ASC	Bar	Medium	university_basketball	Visualize a bar chart about the distribution of ACC_Road and the sum of School_ID , and group by attribute ACC_Road, and display names from low to high order.
+3100@x_name@DESC	Bar	Medium	university_basketball	Give me the comparison about the sum of School_ID over the ACC_Road , and group by attribute ACC_Road, display in desc by the x axis.
+3101@y_name@ASC	Bar	Medium	university_basketball	Show me about the distribution of ACC_Road and the average of School_ID , and group by attribute ACC_Road in a bar chart, and sort in ascending by the Y.
+3104@y_name@ASC	Bar	Medium	university_basketball	Show me about the distribution of All_Home and the sum of School_ID , and group by attribute All_Home in a bar chart, and rank sum school id in ascending order please.
+3105	Bar	Easy	university_basketball	Give me the comparison about the average of School_ID over the  All_Home , and group by attribute All_Home by a bar chart.
+3111@y_name@ASC	Bar	Easy	university_basketball	A bar chart shows the distribution of Team_Name and School_ID , order by the School_ID in asc.
+3214@x_name@DESC	Bar	Hard	wedding	A bar chart about the number of countries for all people whose age is smaller than the average, and could you display in desc by the X-axis?
+3214@y_name@ASC	Bar	Hard	wedding	A bar chart about the number of countries for all people whose age is smaller than the average, display Y in ascending order.
+3218@x_name@DESC	Line	Medium	wedding	Visualize a line chart that bins the open date into the Year interval and counts them, and could you sort X-axis in descending order?
+3234	Bar	Hard	wine_1	Visualize the number of grape of the wines whose price is bigger than 100 with a bar chart, ordered the x-axis by year.
+3235	Stacked Bar	Hard	wine_1	List the grape and winery of the wines whose price is bigger than 100, visualize them with a stacked bar chart, the x-axis is winery and group the grape, and y-axis is the number of wineries.
+3237@x_name@DESC	Bar	Hard	wine_1	What are the countries for applications with at most 3 wines? Return the result in a bar chart, I want to list from high to low by the x-axis.
+3239	Bar	Easy	wine_1	Bin the year attribute into the Year interval and count them for a bar chart.
+3256	Line	Easy	wine_1	What is the maximum price of wines in each year?
+3260	Bar	Easy	workshop_paper	A bar chart shows the venue for each workshop.
+3261@x_name@DESC	Bar	Medium	workshop_paper	For each submission, group its acceptance result and count them Visualize them in a bar chart, rank from high to low by the x axis.
+3279@x_name@DESC	Bar	Medium	wrestler	A bar chart about how many eliminations did each team have?, sort by the X from high to low.
+3279@y_name@ASC	Bar	Medium	wrestler	Show different teams in eliminations and the number of eliminations from each team by a bar chart, order by the total number from low to high.
+3281@y_name@ASC	Bar	Medium	wrestler	A bar chart for what is the number of locations of the wrestlers, and show total number in ascending order.
+3286	Pie	Easy	wta_1	Find the number of players for each hand type. Plot them as pie chart.
+9	Bar	Easy	activity_1	Show the number of faculty members for each rank in a bar chart.
+34@x_name@DESC	Bar	Medium	aircraft	A bar chart for what are the number of the descriptions for the aircrafts?, and show by the Description in descending.
+70@y_name@ASC	Bar	Extra Hard	apartment_rentals	What is the number of booking start dates of the apartments with more than 2 bedrooms for each year? Return a bar chart, and order Y in ascending order.
+72	Bar	Hard	apartment_rentals	What is the number of booking start dates of the apartments with more than 2 bedrooms for each weekday? Draw a bar chart.
+83	Bar	Easy	apartment_rentals	Show the number of apartment bookings in each year and bin booking end date by year with a bar chart.
+98	Bar	Medium	apartment_rentals	Show the number of start dates of all the apartment bookings for each year with a bar chart.
+114@y_name@ASC	Bar	Medium	architecture	Draw a bar chart for what are the ids and names of the architects who built at least 3 bridges ?, list in ascending by the y-axis.
+116	Bar	Medium	assets_maintenance	Give me a histogram for how many engineers did each staff contact? List both the contact staff name and number of engineers contacted.
+117@x_name@DESC	Bar	Medium	assets_maintenance	Show the number of assets and group by asset make in a bar chart, and sort asset_make in desc order.
+119	Bar	Easy	assets_maintenance	which parts have more than 2 faults? Show the part name and id.
+124@y_name@DESC	Stacked Bar	Extra Hard	assets_maintenance	A stacked bar about the number of faults for different fault description and fault status of all the faults recoreded in the logs, and show Y from high to low order.
+124@y_name@ASC	Stacked Bar	Extra Hard	assets_maintenance	A stacked bar about the number of faults for different fault description and fault status of all the faults recoreded in the logs, I want to sort how many fault status in ascending order please.
+133	Stacked Bar	Hard	assets_maintenance	List the number of enginners in a stacked bar chart. The x-axis is first name and group by skill description.
+134@x_name@DESC	Stacked Bar	Extra Hard	assets_maintenance	List the number of enginners in a stacked bar chart The x-axis is last name and group by skill description, rank last_name in descending order.
+140@y_name@DESC	Bar	Medium	assets_maintenance	Bar graph to show how many asset make from different asset make, and show Y-axis from high to low order.
+147	Pie	Medium	assets_maintenance	A pie chart about the proportion of the number of faults for different fault short name.
+148@y_name@DESC	Bar	Hard	assets_maintenance	A bar chart about the number of faults for different fault short name, show in descending by the total number.
+148@y_name@ASC	Bar	Hard	assets_maintenance	A bar chart about the number of faults for different fault short name, sort from low to high by the y-axis.
+172@y_name@ASC	Bar	Medium	battle_death	A bar chart listing the number of battle date, and sort total number from low to high order.
+174@x_name@DESC	Bar	Hard	battle_death	Show a bar chart about the number of results of the battles when the bulgarian commander is not 'Boril', and order names in descending order.
+179@y_name@DESC	Bar	Medium	battle_death	Draw a bar chart for what are the ids and names of the battles that led to more than 10 people killed in total, and could you show by the total number in descending?
+185	Bar	Hard	behavior_monitoring	Find the number of the dates of assessment notes for students with first name "Fanny".
+296	Bar	Hard	bike_1	For the top 3 days with the largest max gust speeds, please bin the date into the of the week and then compute the average of mean humidity to visualize a bar chart.
+307@y_name@ASC	Bar	Easy	bike_1	Show maximal lat from each city, and could you list by the total number in asc?
+329@x_name@DESC	Bar	Hard	bike_1	Count those days and in which zip code was the min dew point lower than any day in zip code 94107 using a bar graph, could you order X in desc order?
+354	Scatter	Easy	body_builder	Draw a scatter chart about the correlation between  Snatch and  Total .
+364@y_name@ASC	Bar	Medium	book_2	Show different publishers together with the number of publications they have Plot them as bar chart, show by the y axis from low to high.
+372	Bar	Easy	browser_web	Find the number of web accelerators used for each Operating system. 
+375@y_name@ASC	Bar	Medium	browser_web	Display a bar chart for what are the ids and names of the web accelerators that are compatible with two or more browsers?, and I want to sort y-axis from low to high order.
+398@y_name@ASC	Bar	Easy	candidate_poll	Show me about the distribution of Date_of_Birth and Weight in a bar chart, and could you rank by the y axis from low to high?
+443	Bar	Easy	cinema	Give me a bar chart showing the number of films for each director.
+453@x_name@DESC	Bar	Hard	cinema	A bar chart showing the average price of each cinema, could you show by the x axis in desc?
+511	Grouping Scatter	Medium	coffee_shop	A scatter chart showing the correlation between age and purchase time for each coffee shop.
+523	Bar	Medium	college_1	Show the number of courses each instructor taught in a bar chart.
+529	Bar	Medium	college_1	Find the number of professors with a Ph.D. degree in each department. Show bar chart.
+531@y_name@DESC	Bar	Easy	college_1	What is the highest student GPA for every department? Return a bar chart, could you show from high to low by the Y?
+538	Scatter	Easy	college_1	Find the relationship between minimum and maximum gpa of all students with a scatter chart.
+544	Bar	Medium	college_1	Find the number of professors in each office with a bar chart.
+555@x_name@DESC	Bar	Hard	college_1	Return a bar chart on how many classes are held in each department?, list bars in descending order.
+555	Bar	Medium	college_1	Find the number of classes in each department. Visualize by bar chart.
+556@x_name@ASC	Stacked Bar	Extra Hard	college_1	How many courses for each course description? Show me a stacked bar chart The x-axis is course description and group by instructor's first name, could you list from low to high by the bars?
+557@y_name@ASC	Stacked Bar	Extra Hard	college_1	Show the number of courses for each course description in a stacked bar chart The x-axis is course description and group by office name, and sort in asc by the y-axis.
+564@x_name@DESC	Bar	Medium	college_1	how many students are in each department?, and display X from high to low order.
+682	Bar	Easy	company_employee	Return a bar chart about the number of companies for each industry.
+709	Bar	Easy	county_public_safety	Display a bar chart for how many counties correspond to each police force?
+722	Pie	Medium	cre_Doc_Control_Systems	How many employees does each role have? Plot a pie chart.
+735	Pie	Easy	cre_Doc_Template_Mgt	How many templates for each template type code? Show me a pie chart.
+753@x_name@DESC	Bar	Medium	cre_Doc_Template_Mgt	Visualize a bar chart for what are the different template type codes, and how many templates correspond to each?, and could you show in desc by the x axis?
+775	Bar	Easy	cre_Doc_Tracking_DB	Show the number of documents in different ending date and bin ending date by weekday with a bar chart.
+777@y_name@DESC	Stacked Bar	Extra Hard	cre_Doc_Tracking_DB	Stacked bar chart of how many date in location from for with each Location_Code in each date in location from, and order by the y axis in descending.
+790	Pie	Easy	cre_Doc_Tracking_DB	Show the location codes and the number of documents in each location with a pie chart.
+791@x_name@ASC	Bar	Medium	cre_Doc_Tracking_DB	Show the location codes and the number of documents in each location in a bar chart, and list from low to high by the bars.
+821	Grouping Scatter	Medium	cre_Docs_and_Epenses	Show the correlation between statement id and account detail and group by statement detail in a group scatter chart.
+842@y_name@DESC	Bar	Hard	cre_Docs_and_Epenses	How many documents for each document type description? Visualize by a bar chart, and could you show Y-axis from high to low order?
+850@x_name@DESC	Grouping Line	Extra Hard	cre_Docs_and_Epenses	Show the number of documents created in each day and bin document date by year interval and group by document type description with a group line chart, I want to rank x axis in descending order.
+857@y_name@DESC	Bar	Extra Hard	cre_Drama_Workshop_Groups	What are the number of the names of the workshop groups that have bookings with status code "stop"?, could you show from high to low by the total number please?
+859@y_name@DESC	Bar	Medium	cre_Drama_Workshop_Groups	For each distinct product name, show its average product price, and sort in desc by the y-axis.
+862@y_name@DESC	Bar	Medium	cre_Drama_Workshop_Groups	Show all the planned delivery dates and bin by weekday in a bar chart, and rank Y in desc order.
+866	Bar	Hard	cre_Drama_Workshop_Groups	What are the order dates of orders with price higher than 1000, and count them by a bar chart
+872	Bar	Easy	cre_Drama_Workshop_Groups	Show all payment method codes and the number of orders for each code in a bar chart.
+916	Bar	Hard	customers_and_addresses	Find the number of orders in each weekday and show in a bar chart.
+993@y_name@ASC	Bar	Hard	customers_and_products_contacts	Show the number of customer address history in each day and bin date to by weekday with a bar chart, and could you order y axis in ascending order?
+994	Bar	Medium	customers_and_products_contacts	Show the number of customer address history in each day and bin date from by weekday with a bar chart.
+1010@x_name@ASC	Bar	Medium	customers_and_products_contacts	Show the total number from each state province county, and could you display from low to high by the bar?
+1013	Scatter	Medium	customers_campaigns_ecommerce	Show the shipping charge and customer id for customer orders with order status Cancelled or Paid by a scatter chart.
+1059	Pie	Medium	customers_card_transactions	Show the card type codes and the number of transactions in a pie chart.
+1093@x_name@DESC	Line	Medium	department_management	Show me a line chart of how the number of creation change over the creation, sort by the Creation in descending.
+1100@x_name@ASC	Line	Medium	department_management	Can you draw the trend of sum budget in billions over the creation?, could you show by the x-axis in asc?
+1104	Pie	Hard	department_management	Show the name and number of employees for the departments managed by heads whose temporary acting value is 'Yes' by a pie chart.
+1110@x_name@ASC	Bar	Medium	department_management	Show the number of heads of departments born in each state with a bar chart, and rank in ascending by the names.
+1124@y_name@DESC	Bar	Medium	department_store	Return the average price for each product type Visualize by bar chart, I want to sort in desc by the Y.
+1130@y_name@ASC	Bar	Easy	department_store	Draw a bar chart of product type code versus minimal product price, display by the total number from low to high please.
+1164	Bar	Medium	dog_kennels	List the number of treatments in each day with a bar chart that bins date of treatment by weekday.
+1184	Bar	Easy	dog_kennels	How many dogs arrived in each day? Visualize with a bar chart that bins arrived date by weekday.
+1191@y_name@ASC	Bar	Hard	dog_kennels	Show the number of dogs that received a treatment arrived in each day in a bar chart that bins departed date by weekday, and could you display from low to high by the Y-axis?
+1274	Pie	Medium	e_learning	List each test result and its count in descending order of count by a pie chart.
+1289@y_name@ASC	Bar	Hard	e_learning	Find the number of courses for each subject in a bar chart, and list by the Y in asc please.
+1289@x_name@ASC	Bar	Hard	e_learning	Find the number of courses for each subject in a bar chart, and rank x-axis in ascending order please.
+1304@y_name@DESC	Bar	Easy	election	What are the name and population of each county Plot them as bar chart, list by the Y in descending.
+1304@x_name@ASC	Bar	Easy	election	Show the county name and population of all counties with a bar chart, I want to sort by the x axis in asc.
+1324@y_name@ASC	Bar	Medium	election_representative	Give me a histogram for what are the different parties of representative? Show the party name and the number of representatives in each party, and show total number in asc order please.
+1326@x_name@DESC	Bar	Easy	election_representative	Show vote_percent from each date, and I want to rank by the x-axis from high to low.
+1332@y_name@DESC	Stacked Bar	Extra Hard	employee_hire_evaluation	Draw a bar chart about the distribution of Start_from and the average of Shop_ID , and group by attribute Is_full_time and bin start_from by weekday, and I want to list by the y axis from high to low.
+1343@y_name@DESC	Bar	Medium	employee_hire_evaluation	Visualize a bar chart about the distribution of Start_from and the average of Employee_ID bin start_from by weekday, list y axis in descending order.
+1346@y_name@DESC	Bar	Medium	employee_hire_evaluation	Show me about the distribution of Is_full_time and the average of Shop_ID , and group by attribute Is_full_time in a bar chart, show in desc by the total number.
+1349@x_name@DESC	Grouping Line	Extra Hard	employee_hire_evaluation	Give me the trend about the amount of Start_from over Start_from , and group by attribute Is_full_time and bin start_from by time, I want to list x axis from high to low order please.
+1354	Pie	Easy	employee_hire_evaluation	Return a pie chart about the proportion of  Is_full_time and the amount of Is_full_time.
+1423	Bar	Medium	flight_company	Show how many flights each pilot has flied in a bar chart.
+1432@x_name@ASC	Bar	Hard	flight_company	How many companies that have ever operated a flight for each type? Draw a bar chart, I want to rank from low to high by the x axis.
+1436@x_name@DESC	Bar	Hard	formula_1	Display a bar chart for what are the ids and locations of all circuits in France or Belgium?, could you sort names in descending order?
+1484	Grouping Line	Hard	game_injury	List the number of games in each season and group by away team in a group line chart.
+1518@y_name@DESC	Bar	Medium	gas_company	Bar chart of how many headquarters from each headquarters, could you sort from high to low by the Y-axis?
+1522	Pie	Hard	hospital_1	Show how many physicians for each department name they primarily affiliated in a pie chart.
+1525	Bar	Medium	hospital_1	List the name of physicians who took some appointment, and count them by a bar chart
+1550@y_name@ASC	Bar	Extra Hard	hr_1	For all employees who have the letters D or S in their first name, show me about the distribution of hire_date and the sum of salary bin hire_date by weekday in a bar chart, display total number of salary in ascending order.
+1584	Bar	Hard	hr_1	For those employees whose salary is in the range of 8000 and 12000 and commission is not null or department number does not equal to 40, draw a bar chart about the distribution of  hire_date and the sum of salary bin hire_date by time.
+1588@y_name@ASC	Bar	Extra Hard	hr_1	For those employees whose salary is in the range of 8000 and 12000 and commission is not null or department number does not equal to 40, draw a bar chart about the distribution of hire_date and the sum of department_id bin hire_date by time, and order Y from low to high order please.
+1598@x_name@ASC	Line	Hard	hr_1	For those employees whose salary is in the range of 8000 and 12000 and commission is not null or department number does not equal to 40, show me the trend about employee_id over hire_date with a line chart, and rank by the X-axis in ascending.
+1599	Line	Medium	hr_1	For those employees whose salary is in the range of 8000 and 12000 and commission is not null or department number does not equal to 40, draw a line chart about the change of  manager_id over  hire_date .
+1630@x_name@ASC	Bar	Hard	hr_1	Provide the frequency of the last names of employees earning more than the employee with id 163 using a bar chart, list X in asc order please.
+1653@x_name@ASC	Line	Medium	hr_1	For those employees who do not work in departments with managers that have ids between 100 and 200, visualize a line chart about the change of employee_id over hire_date , rank by the X-axis in ascending.
+1659	Bar	Medium	hr_1	For those employees who do not work in departments with managers that have ids between 100 and 200, return a bar chart about the distribution of  hire_date and the sum of manager_id bin hire_date by weekday.
+1670@y_name@ASC	Bar	Medium	hr_1	For those employees who do not work in departments with managers that have ids between 100 and 200, find first_name and employee_id , and visualize them by a bar chart, sort total number from low to high order.
+1677@x_name@DESC	Bar	Medium	hr_1	For those employees who do not work in departments with managers that have ids between 100 and 200, find last_name and department_id , and visualize them by a bar chart, and I want to list in descending by the X please.
+1680@x_name@ASC	Bar	Medium	hr_1	For those employees who do not work in departments with managers that have ids between 100 and 200, draw a bar chart about the distribution of email and manager_id , I want to sort bars from low to high order.
+1715@y_name@ASC	Bar	Hard	hr_1	For those employees who did not have any job in the past, find hire_date and the average of salary bin hire_date by time, and visualize them by a bar chart, display total number in asc order.
+1716@y_name@ASC	Bar	Hard	hr_1	For those employees who did not have any job in the past, draw a bar chart about the distribution of hire_date and the sum of manager_id bin hire_date by time, and list by the total number in asc.
+1735@x_name@ASC	Bar	Hard	hr_1	For those employees who did not have any job in the past, draw a bar chart about the distribution of job_id and the average of manager_id , and group by attribute job_id, rank by the bar in ascending.
+1784	Scatter	Easy	hr_1	For those employees who was hired before 2002-06-21, draw a scatter chart about the correlation between  employee_id and  manager_id .
+1901@y_name@ASC	Bar	Hard	hr_1	Just list the first name of the employee and show the location id of the corresponding department using a bar chart, and show y-axis in asc order.
+1910@y_name@DESC	Bar	Easy	hr_1	Plot salary by grouped by email as a bar graph, and show y-axis in descending order.
+1956	Bar	Hard	hr_1	Compare the total number of different job titles for all those jobs in department 80 using a bar chart.
+1967@y_name@DESC	Bar	Medium	inn_1	What are the number of rooms for each bed type Show bar chart, could you list by the y axis from high to low?
+1969@y_name@DESC	Bar	Medium	inn_1	Give me a bar chart for the average of baseprice of each decor, could you display Y-axis from high to low order?
+1980	Pie	Extra Hard	inn_1	A pie chart for what are the number of the name of rooms booked by customers whose first name has "ROY" in part?
+1981@x_name@DESC	Bar	Extra Hard	inn_1	Find the number of the name of rooms booked by some customers whose first name contains ROY, rank X-axis in descending order.
+1994@y_name@DESC	Bar	Medium	insurance_policies	Find the the customer details and id for the customers who had more than one policy, list total number in desc order.
+1997	Stacked Bar	Extra Hard	insurance_policies	Give me a bar chart that bins the payment date into the Year interval and then shows the average of the amount of each payment categorized by the payment method code, and then sort the bars in ascending order of date.
+2004	Bar	Medium	insurance_policies	Give me a bar chart that bins the payment date into the day of the week interval and then shows the amount of each payment, and then sort the bars in ascending order of date.
+2020	Bar	Easy	insurance_policies	Bin the claim date into the Day of Week interval and count them for visualizing a bar chart.
+2053@x_name@DESC	Bar	Easy	journal_committee	Compare each editors' ages using a bar chart, and could you list bars in descending order?
+2143@y_name@DESC	Bar	Hard	local_govt_in_alabama	How many events have each participants attended? Show their total number by each participant type code using a bar chart, and sort y-axis in desc order.
+2152@x_name@DESC	Bar	Hard	local_govt_in_alabama	Show me a bar chart for what are the ids and details of events that have more than one participants?, I want to show by the x axis in descending please.
+2162@x_name@ASC	Bar	Extra Hard	machine_repair	Show names of technicians who are assigned to repair machines with value point more than 70, and count them by a bar chart, could you order in asc by the bars?
+2169@x_name@DESC	Bar	Medium	machine_repair	Show different teams of technicians and the number of technicians in each team, list by the bar in desc.
+2175	Bar	Easy	manufactory_1	Give me a bar chart to show the revenue of the company that earns the highest revenue in each headquarter city.
+2179	Bar	Easy	manufactory_1	Return a bar chart on what are the names and prices of all products in the store?
+2181	Bar	Easy	manufactory_1	Find the total revenue for each manufacturer. Plot them as bar chart.
+2183@x_name@ASC	Bar	Hard	manufactory_1	Draw a bar chart for what are the names and average prices of products for manufacturers whose products cost on average 150 or more?, display by the names from low to high.
+2189@x_name@ASC	Bar	Medium	manufactory_1	For those products with a price between 60 and 120, return a bar chart about the distribution of name and code , and I want to rank by the x-axis in asc.
+2226@y_name@ASC	Bar	Hard	manufactory_1	For those records from the products and each product's manufacturer, give me the comparison about the amount of founder over the founder , and group by attribute founder by a bar chart, display in ascending by the Y.
+2227@x_name@DESC	Bar	Hard	manufactory_1	For those records from the products and each product's manufacturer, return a bar chart about the distribution of founder and the sum of code , and group by attribute founder, and list Founder in desc order.
+2237@x_name@DESC	Stacked Bar	Hard	manufactory_1	For those records from the products and each product's manufacturer, show me about the distribution of name and code , and group by attribute name in a bar chart, rank X in descending order.
+2255@y_name@ASC	Bar	Hard	manufactory_1	For those records from the products and each product's manufacturer, give me the comparison about the sum of price over the name , and group by attribute name, and could you sort from low to high by the y axis?
+2256@y_name@ASC	Bar	Hard	manufactory_1	For those records from the products and each product's manufacturer, give me the comparison about the average of price over the name , and group by attribute name by a bar chart, list by the mean price in ascending please.
+2259@y_name@ASC	Bar	Hard	manufactory_1	For those records from the products and each product's manufacturer, visualize a bar chart about the distribution of name and the sum of code , and group by attribute name, and I want to rank in asc by the y-axis.
+2323@x_name@DESC	Bar	Extra Hard	match_season	Give me a bar chart that groups and counts the years played for players from team "Columbus Crew", list Years_Played from high to low order.
+2323@x_name@ASC	Bar	Extra Hard	match_season	Give me a bar chart that groups and counts the years played for players from team "Columbus Crew", I want to display X-axis in asc order please.
+2329@x_name@DESC	Bar	Medium	medicine_enzyme_interaction	What are the ids and names of the medicine that can interact with two or more enzymes Visualize by bar chart, and could you show by the name in desc?
+2351	Bar	Easy	mountain_photos	Compare the number of items in each color scheme using a bar chart.
+2437	Bar	Easy	music_4	What are the famous titles and ages of each artist, listed in descending order by age using a bar chart.
+2450	Bar	Easy	musical	Show different nominees and the number of musicals they have been nominated in a bar chart.
+2488	Bar	Easy	news_report	Visualize a bar chart for what are the nationalities and their average ages of journalists?
+2527@y_name@ASC	Bar	Medium	party_people	Compare the total number of each minister using a bar graph, list the number of minister in ascending order.
+2537@x_name@DESC	Bar	Extra Hard	performance_attendance	Show the number of the dates of performances with attending members whose roles are "Violin", I want to rank from high to low by the bar.
+2539@x_name@ASC	Bar	Medium	performance_attendance	Bar chart x axis location y axis how many location, and rank by the bars in asc.
+2540	Pie	Medium	performance_attendance	Show the names of members and the location of the performances they attended. Compute the total number of each location using a pie chart.
+2582@y_name@DESC	Bar	Hard	phone_market	Give me a bar chart to visualize the number of the districts of markets they are on, and list by the total number from high to low.
+2587@x_name@ASC	Bar	Medium	pilot_record	Draw a bar chart for what are the different nationalities of pilots? Show each nationality and the number of pilots of each nationality, and I want to list by the names in ascending.
+2602@y_name@ASC	Bar	Medium	product_catalog	Find the dates on which more than one revisions were made, and the bin the date of latest revision into weekday interval and count them as a bar chart, and rank Y from low to high order.
+2606	Pie	Easy	product_catalog	Find the name and capacity of products with price greater than 700 (in USD). Visualize by pie chart.
+2641@y_name@ASC	Bar	Hard	race_track	Visualize a bar chart for what are the names of different tracks, and how many races has each had?, and could you list in asc by the Y-axis?
+2655@y_name@DESC	Bar	Medium	railway	Show different builders of railways, along with the corresponding number of railways using each builder Show bar chart, could you order from high to low by the y axis?
+2671@y_name@ASC	Bar	Hard	riding_club	For players whose occupation is not "Researcher", tell me the distribution of their residences with a bar chart, and I want to show y axis from low to high order.
+2678@y_name@ASC	Bar	Medium	riding_club	Bar chart x axis occupation y axis how many occupation, and rank by the y-axis from low to high.
+2681@x_name@DESC	Bar	Medium	riding_club	Show different occupations along with the number of players in each occupation Show bar chart, and show x-axis from high to low order.
+2735@y_name@DESC	Bar	Hard	ship_1	Show me the total number of the flag of ships that are not steered by any captain with Midshipman rank using a bar graph, display from high to low by the Y-axis.
+2762@x_name@DESC	Bar	Medium	ship_mission	Show different types of ships and the number of ships of each type in a bar chart, and show Type in desc order.
+2780	Bar	Extra Hard	soccer_1	For the top five players in terms of potential, bin their birthday into weekday interval, and show me the distribution of their birthday.
+2790@y_name@ASC	Bar	Medium	soccer_2	A bar chart about what are the names and number of hours spent training for each player who trains for less than 1500 hours?, and order HS from low to high order.
+2807	Bar	Easy	solvency_ii	Show different type codes of products and the number of products with each type code in a bar chart.
+2816@x_name@ASC	Bar	Medium	sports_competition	Show me the number of country by country in a histogram, sort by the bar in asc.
+2860@x_name@ASC	Bar	Medium	store_product	Find the name and population of districts with population between 200000 and 200000 Show a bar chart, display in asc by the District_name.
+2865@y_name@ASC	Bar	Hard	storm_record	how many regions were affected by each storm?, and list the total number in ascending order.
+2871	Scatter	Easy	student_1	For each classroom, show the classroom number and find how many students are using it. Plot them as scatter chart.
+2907	Bar	Easy	swimming	Give me the comparison about the average of ID over the  Nationality , and group by attribute Nationality by a bar chart.
+2910	Bar	Easy	swimming	Find  meter_200 and the sum of ID , and group by attribute meter_200, and visualize them by a bar chart.
+2923@y_name@ASC	Bar	Easy	swimming	Create a bar chart showing meter_100 across meter 600, and could you order from low to high by the Y-axis?
+2935@x_name@ASC	Bar	Hard	theme_gallery	Find dates and attendance for exhibitions that happened in 2004, show me the attendance by date with a bar chart, and rank in ascending by the X-axis.
+2943	Bar	Easy	theme_gallery	Show the average of artists' age by country.
+2962@y_name@ASC	Bar	Medium	tracking_grants_for_research	When do all the researcher role staff start to work? Bin the time into weekday interval and count them with a bar chart, I want to list in asc by the Y-axis please.
+3016@x_name@DESC	Line	Extra Hard	tracking_share_transactions	For the dates of transactions with amount smaller than 3000, bin the date into year interval, and draw a line chart to show the trend of the number of records in each bin, rank x axis from high to low order please.
+3037	Scatter	Hard	tracking_software_problems	For each product that has problems, find the number of problems reported after 1986-11-13 and the product id. Visualize by scatter chart.
+3052@x_name@DESC	Bar	Medium	train_station	Show the total number of platforms of locations in each location in a bar chart, could you order by the names from high to low?
+3053@x_name@DESC	Bar	Medium	train_station	Visualize a bar chart showing each location's total number of passengers, and I want to sort by the bars in desc please.
+3055	Scatter	Medium	train_station	Show me the correlation between the number of platforms and the number of total_passengers in a scatter chart.
+3058@x_name@DESC	Bar	Medium	tvshow	List each language and the number of TV Channels using it Visualize by bar chart, and list in desc by the X.
+3071@x_name@DESC	Bar	Medium	university_basketball	What are the total enrollments of universities of each affiliation type Plot them as bar chart, and display in descending by the bar.
+3100@y_name@DESC	Bar	Medium	university_basketball	Bar chart x axis acc road y axis total number of school id, order in descending by the total number of school id.
+3110@y_name@ASC	Bar	Easy	university_basketball	Find Team_Name and Team_ID , and visualize them by a bar chart, and show by the Y-axis in asc.
+3128	Pie	Easy	university_basketball	Show me about the proportion of  Team_ID and  Team_ID in a pie chart.
+3143@y_name@DESC	Bar	Easy	university_basketball	Find All_Road and All_Games_Percent , and visualize them by a bar chart, sort in descending by the y axis.
+3146@x_name@DESC	Bar	Easy	university_basketball	Show me about the distribution of All_Neutral and All_Games_Percent in a bar chart, list by the names in desc.
+3221	Bar	Hard	wine_1	A bar chart for listing the number of grapes, whose score is higher than 93 ordered by Name.
+3237@y_name@DESC	Bar	Hard	wine_1	Find the country of all appellations who have at most three wines, and visualize them in a bar chart, and show from high to low by the Y-axis.
+3247	Line	Easy	wine_1	What are the maximum score of wines in each year?
+32@x_name@DESC	Bar	Hard	aircraft	List the names of aircrafts and the number of times it won matches by a bar chart, and sort x-axis from high to low order.
+36	Bar	Medium	aircraft	Please list the number of each winning aircraft in a bar chart.
+74@x_name@ASC	Bar	Medium	apartment_rentals	How many bookings does each booking status have? List the booking status code and the number of corresponding bookings, sort booking_status_code from low to high order.
+84	Bar	Easy	apartment_rentals	Show the number of apartment bookings in each weekday and bin booking end date by weekday with a bar chart.
+96@x_name@ASC	Bar	Easy	apartment_rentals	Show the minimum room count of apartments in different type with a bar chart, display by the bars in ascending.
+97@x_name@ASC	Bar	Easy	apartment_rentals	Return a bar chart on what are the apartment number and the room count of each apartment?, list in ascending by the bars.
+99@y_name@DESC	Bar	Hard	apartment_rentals	Show the number of start dates of all the apartment bookings for each year with a bar chart, display y-axis from high to low order.
+101@y_name@ASC	Bar	Hard	apartment_rentals	Show the number of start dates of all the apartment bookings for each weekday with a bar chart, sort in ascending by the the number of booking start date please.
+120@y_name@ASC	Bar	Hard	assets_maintenance	A bar chart about the number of faluts for different fault description recorded in the logs, and display by the y-axis in ascending.
+123@x_name@ASC	Bar	Hard	assets_maintenance	A bar chart about the number of faults for different fault status of all the faults recoreded in the logs, and rank by the x axis from low to high.
+127@y_name@DESC	Bar	Hard	assets_maintenance	How many staffs have contacted with each engineer? Give me a bar chart grouping by each engineer's first name, list from high to low by the total number.
+132@x_name@ASC	Bar	Hard	assets_maintenance	Give me a pie chart showing the number of engineers for different skill description, and I want to list from low to high by the X.
+139@y_name@ASC	Bar	Hard	assets_maintenance	How many assets can each parts be used in? List the part name and the number, and order y-axis in asc order.
+139@y_name@DESC	Bar	Hard	assets_maintenance	How many assets can each parts be used in? List the part name and the number, I want to order Y-axis in descending order.
+146@x_name@DESC	Stacked Bar	Extra Hard	assets_maintenance	A stacked bar chart showing the number of faults for different fault short name and skills required to fix them The x-axis is falut short name and group by skill description, and list by the bars from high to low.
+149@x_name@DESC	Bar	Hard	assets_maintenance	A bar chart listing the number of faults for different description of skills required to fix them, and sort x axis in descending order.
+166	Line	Easy	baseball_1	Return me a line chart to show the frequency of the year attribute by binning into a weekday interval.
+171@x_name@DESC	Line	Medium	baseball_1	For each year, return the year and the average number of attendance at home games, and I want to list by the X in desc please.
+182	Pie	Hard	behavior_monitoring	Find the ids and first names of the 3 teachers that have the most number of assessment notes. Plot them as pie chart.
+204	Stacked Bar	Extra Hard	behavior_monitoring	Visualize a bar chart about the distribution of  date_address_to and the amount of date_address_to , and group by attribute other_details and bin date_address_to by weekday.
+267	Line	Easy	behavior_monitoring	Return a line chart about the change of  monthly_rental over  date_address_from .
+274	Scatter	Easy	behavior_monitoring	Draw a scatter chart about the correlation between  student_id and  address_id .
+307@y_name@DESC	Bar	Easy	bike_1	Show maximal lat from each city, show total number in descending order please.
+310@x_name@DESC	Bar	Easy	bike_1	Find the ids and names of stations from which at least 200 trips started, list by the bar in desc.
+316@x_name@DESC	Line	Hard	bike_1	Give me the dates when the max temperature was higher than 85, and count them by a line chart, order X in desc order.
+339	Bar	Easy	bike_1	List the name and the number of stations for all the cities that have at least 15 stations with a bar chart.
+351	Scatter	Easy	body_builder	List the height and weight of people in descending order of height in a scatter chart
+403	Bar	Medium	candidate_poll	Count the number of people of each sex who have a weight higher than 85 by a bar chart.
+403@y_name@ASC	Bar	Hard	candidate_poll	Count the number of people of each sex who have a weight higher than 85, order y axis from low to high order.
+403@y_name@DESC	Bar	Hard	candidate_poll	Count the number of people of each sex who have a weight higher than 85 by a bar chart, could you rank from high to low by the Y please?
+421	Scatter	Medium	car_1	How many countries does each continent have? List the continent id and the number of countries with a scatter chart.
+449	Stacked Bar	Medium	cinema	For each film, show the price and group them by cinema name in a stacked bar chart.
+459	Bar	Medium	cinema	For each record in schedule, show sum of price for each day in a bar chart.
+490@x_name@DESC	Bar	Hard	climbing	Return the number of the countries of the mountains that have a height larger than 5000, display from high to low by the bar.
+492@x_name@ASC	Bar	Medium	coffee_shop	Find the address and staff number of the shops that do not have any happy hour Visualize by bar chart, list in asc by the X please.
+495@x_name@DESC	Bar	Medium	coffee_shop	Bar graph to show the total number from different address, and rank x axis from high to low order.
+513@x_name@DESC	Bar	Hard	college_1	A bar chart about what are the total number of credits offered by each department?, list in desc by the x-axis.
+515@x_name@ASC	Bar	Medium	college_1	A bar chart about how many departments are in each school?, rank X-axis in asc order.
+520	Bar	Medium	college_1	Find the first name and gpa of the students whose gpa is lower than the average gpa of all students. Plot them as bar chart.
+523@y_name@DESC	Bar	Hard	college_1	How many courses each teacher taught? Show me a bar chart grouping by instructor's first name, order Y in descending order.
+523@y_name@ASC	Bar	Hard	college_1	Show the number of courses each instructor taught in a bar chart, and order in asc by the how many emp fname please.
+530	Pie	Easy	college_1	Find the max gpa of all students in each department with a pie chart.
+531@x_name@DESC	Bar	Easy	college_1	Find the max gpa of all students in each department with a bar chart, and sort in desc by the bar please.
+532@x_name@ASC	Bar	Medium	college_1	Bar chart of mean stu gpa from each dept code, I want to rank by the X-axis in asc please.
+541	Grouping Scatter	Easy	college_1	Find the relationship between minimum and average gpa of all students in each department with a scatter chart grouping by department code.
+561@x_name@ASC	Bar	Hard	college_1	Show the number of courses for each instructor in a bar chart, and list x-axis from low to high order.
+564@x_name@ASC	Bar	Medium	college_1	how many students are in each department?, could you show bar from low to high order?
+574@x_name@DESC	Bar	Hard	college_1	What is the number of professors for different school Plot them as bar chart, and show by the names from high to low.
+578@x_name@DESC	Bar	Extra Hard	college_1	How many students taking a course who received an A or C? Group by students' last name with a bar chart, and display by the STU_LNAME in desc.
+580@y_name@ASC	Bar	Medium	college_1	Find the number of classes offered for all class rooms that held at least 2 classes Show bar chart, and order from low to high by the Y.
+682@y_name@DESC	Bar	Medium	company_employee	Bar chart x axis industry y axis the number of industry, I want to show y axis from high to low order.
+687@y_name@DESC	Bar	Hard	company_office	List the number of companies for each building in a bar chart, and show by the the number of name in descending.
+688	Bar	Easy	company_office	Draw a bar chart for what are the name and assets of each company, sorted in ascending order of company name?
+690	Bar	Easy	concert_singer	Show all countries and the number of singers in each country in a bar chart.
+691	Pie	Hard	concert_singer	What are the names of the singers who performed in a concert in 2014, and count them by a pie chart
+733@y_name@DESC	Bar	Medium	cre_Doc_Template_Mgt	Return a bar chart showing the number of templates for each template type code, and could you display in descending by the total number?
+744@y_name@DESC	Bar	Hard	cre_Doc_Template_Mgt	what are the different template type codes, and how many documents use each type?, and I want to list by the Y-axis in desc.
+744	Bar	Medium	cre_Doc_Template_Mgt	Show all template type codes and the number of documents using each type with a bar chart.
+753@y_name@ASC	Bar	Medium	cre_Doc_Template_Mgt	What are the different template type codes, and how many templates correspond to each Plot them as bar chart, could you rank in ascending by the Y-axis please?
+753@y_name@DESC	Bar	Medium	cre_Doc_Template_Mgt	Show all template type codes and number of templates for each with a bar chart, could you list Y-axis in descending order please?
+789	Line	Easy	cre_Doc_Tracking_DB	Show all calendar dates and day Numbers in a line chart.
+815	Pie	Medium	cre_Docs_and_Epenses	Show the sum of account details for different statement details in a pie chart.
+816	Bar	Medium	cre_Docs_and_Epenses	Show the sum of account details for different statement details in a bar chart.
+822	Scatter	Easy	cre_Docs_and_Epenses	Show all account ids and account details by a scatter chart.
+827@x_name@ASC	Bar	Medium	cre_Docs_and_Epenses	List document type codes and the number of documents in each code Visualize by bar chart, and rank by the Document_Type_Code in ascending please.
+846@x_name@DESC	Line	Hard	cre_Docs_and_Epenses	Show the number of documents created in each day and bin document date by year interval with a line chart, and rank x-axis from high to low order.
+846	Line	Medium	cre_Docs_and_Epenses	How many documents are created in each day? Bin the document date by year interval with a line chart.
+847@y_name@ASC	Bar	Hard	cre_Docs_and_Epenses	How many documents are created in each day? Bin the document date by weekday with a bar chart, and list in asc by the y axis.
+848	Grouping Line	Extra Hard	cre_Docs_and_Epenses	How many documents are created in each day? Bin the document date by year interval and group by document type with a group line chart.
+856	Pie	Hard	cre_Drama_Workshop_Groups	What are the names of the workshop groups that have bookings with status code "stop", and count them by a pie chart
+868	Line	Hard	cre_Drama_Workshop_Groups	Find the order dates of the orders with price above 1000, and count them by a line chart
+882@x_name@ASC	Bar	Hard	cre_Drama_Workshop_Groups	How many drama workshop groups are there in each city? Return both the city and the count Plot them as bar chart, order in ascending by the x-axis.
+884@x_name@DESC	Bar	Extra Hard	cre_Drama_Workshop_Groups	What are the number of the descriptions of the service types with product price above 100?, show in desc by the x-axis.
+909@x_name@ASC	Bar	Medium	customer_complaints	What is the average price of the products for each category, could you list by the bars in ascending?
+911@y_name@DESC	Bar	Hard	customer_complaints	What are all the different product names, and how many complains has each received Show bar chart, and rank Y-axis in descending order.
+953@x_name@DESC	Line	Medium	customers_and_invoices	How many accounts are opened in each year? Show a line chart, order in desc by the X.
+966	Scatter	Medium	customers_and_invoices	Show the product ids and the number of unique orders containing each product by a scatter chart.
+969	Scatter	Easy	customers_and_invoices	Show the relationship between account id and name for each account in a scatter chart.
+988@x_name@DESC	Bar	Hard	customers_and_invoices	Show the number of accounts for each customer in a bar chart grouping by customer's first name, I want to sort in descending by the bars.
+1001	Bar	Medium	customers_and_products_contacts	Show the product name and total order quantity for each product in a bar chart.
+1008	Pie	Hard	customers_and_products_contacts	Show the number of products with price higher than 1000 or lower than 500 for each product name in a pie chart.
+1012@x_name@DESC	Bar	Medium	customers_campaigns_ecommerce	Show each premise type and the number of premises in that type Visualize by bar chart, and I want to rank X-axis from high to low order.
+1015@x_name@DESC	Bar	Medium	customers_campaigns_ecommerce	Show all distinct product categories along with the number of mailshots in each category Visualize by bar chart, rank x-axis from high to low order please.
+1016@x_name@DESC	Stacked Bar	Extra Hard	customers_campaigns_ecommerce	Show the of customer addresses and group by premises type and address type code in a stacked bar chart The x-axis is premises type, and rank by the names from high to low.
+1021	Pie	Easy	customers_campaigns_ecommerce	Show the outcome code of mailshots along with the number of mailshots in each outcome code with a pie chart.
+1043@x_name@ASC	Bar	Medium	customers_card_transactions	Show me the number of card type code by card type code in a histogram, sort X-axis in ascending order.
+1071	Bar	Medium	debate	A bar chart for listing the number of the venues of debates in ascending order of the number of audience.
+1099	Bar	Easy	department_management	List the budget of each department in a bar chart.
+1116@x_name@DESC	Bar	Easy	department_store	Give the maximum product price for each product type in a bar chart, and sort bar in descending order.
+1117	Bar	Easy	department_store	What is the lowest price of product, grouped by product type? Show a bar chart.
+1121	Pie	Easy	department_store	For each payment method, return how many customers use it. Plot them as pie chart.
+1122@y_name@ASC	Bar	Medium	department_store	A bar chart about how many customers use each payment method?, order Y in asc order.
+1129@y_name@ASC	Bar	Easy	department_store	What is the highest price of product, grouped by product type? Show a bar chart, could you display by the y axis in asc please?
+1138@x_name@DESC	Bar	Extra Hard	department_store	Show the sum of price supplied by supplier id 3 for different product type code in a bar chart, and sort from high to low by the bars please.
+1143	Pie	Hard	department_store	Show the sum of price of productd supplied by supplier id 3 for different product type code in a pie chart.
+1154	Pie	Extra Hard	dog_kennels	List the number of the treatments for each dog of the rarest breed in a pie chart.
+1166@y_name@DESC	Bar	Hard	dog_kennels	List the number of treatments each professional has operated with a bar chart that groups by professional's first name, I want to order the number of first name from high to low order.
+1180	Pie	Extra Hard	dog_kennels	Give me the number of professionals who did not perform any treatment on dogs for each role in a pie chart.
+1199@x_name@ASC	Bar	Hard	dog_kennels	List the cost of each treatment and the corresponding treatment type description, and I want to show by the names in ascending.
+1204@y_name@DESC	Bar	Hard	dog_kennels	List the number of dogs each owner has in a bar chart that groups by owner's last name, and I want to list in descending by the y axis.
+1204@y_name@ASC	Bar	Hard	dog_kennels	How many dogs each owner has? Return a bar chart that groups by owner's last name, and order how many last name from low to high order please.
+1245@y_name@DESC	Bar	Medium	driving_school	List all customer status codes and the number of customers having each status code, order from high to low by the y-axis.
+1245	Bar	Easy	driving_school	List all customer status codes and the number of customers having each status code in a bar chart.
+1260	Bar	Easy	e_learning	Draw a bar chart about the distribution of  login_name and  gender_mf .
+1266	Bar	Easy	e_learning	Show me about the distribution of  personal_name and  gender_mf  in a bar chart.
+1302@x_name@ASC	Bar	Hard	election	Use a bar chart to show the number of delegates in each county, and sort x-axis from low to high order.
+1315@x_name@ASC	Bar	Hard	election	Show the name of each county along with the corresponding number of delegates from that county with a bar chart, and sort by the names in ascending.
+1315	Bar	Medium	election	Show the name of each county along with the corresponding number of delegates from that county with a bar chart.
+1324@x_name@DESC	Bar	Medium	election_representative	What are the different parties of representative? Show the party name and the number of representatives in each party, sort names in descending order.
+1326	Bar	Easy	election_representative	List the dates and vote percents of elections in a bar chart.
+1330@y_name@ASC	Stacked Bar	Extra Hard	employee_hire_evaluation	Draw a bar chart about the distribution of Start_from and the amount of Start_from , and group by attribute Is_full_time and bin start_from by weekday, rank total number in asc order.
+1337	Bar	Easy	employee_hire_evaluation	Find  Start_from and the amount of Start_from bin start_from by weekday, and visualize them by a bar chart.
+1373@x_name@ASC	Bar	Medium	entrepreneur	Bar graph to show the number of investor from different investor, rank by the bars from low to high.
+1390@y_name@DESC	Bar	Hard	farm	Show the number of competitions held in each city with a bar chart, and rank in descending by the y axis.
+1392@x_name@DESC	Bar	Hard	film_rank	Please show the number of films for each type in a bar chart, could you sort names from high to low order?
+1435@x_name@DESC	Bar	Extra Hard	formula_1	A bar chart for what are the number of the names of all the Japanese constructors that have earned more than 5 points?, and could you display X-axis in descending order please?
+1460	Bar	Medium	formula_1	What are the names of all races held between 2009 and 2011, and count them by a bar chart
+1490@x_name@ASC	Grouping Line	Extra Hard	game_injury	Show the number of games in each season and group by away team in a group line chart The x-axis is season, list by the X-axis in asc.
+1492	Pie	Easy	game_injury	Show the number of games for each away team in a pie chart.
+1516@x_name@ASC	Bar	Hard	gas_company	For each company id, what are the companies and how many gas stations does each one operate Plot them as bar chart, and display Company in asc order.
+1517	Pie	Easy	gas_company	Show the number of companies in each headquarter with a pie chart.
+1523@x_name@ASC	Bar	Extra Hard	hospital_1	What are the name and primarily affiliated department name of each physician?, and I want to display in ascending by the x-axis please.
+1528	Bar	Hard	hospital_1	Which physicians are trained in procedures that are more expensive than 5000, and count them by a bar chart
+1539	Bar	Extra Hard	hr_1	For all employees who have the letters D or S in their first name, draw a bar chart about the distribution of  hire_date and the amount of hire_date bin hire_date by weekday.
+1548	Bar	Extra Hard	hr_1	For all employees who have the letters D or S in their first name, visualize a bar chart about the distribution of  hire_date and the sum of employee_id bin hire_date by weekday.
+1556@x_name@ASC	Line	Extra Hard	hr_1	For all employees who have the letters D or S in their first name, visualize a line chart about the change of salary over hire_date , sort x axis in ascending order.
+1558@x_name@ASC	Line	Extra Hard	hr_1	For all employees who have the letters D or S in their first name, give me the trend about commission_pct over hire_date , and I want to rank x axis from low to high order.
+1565@x_name@DESC	Bar	Extra Hard	hr_1	For all employees who have the letters D or S in their first name, give me the comparison about the average of manager_id over the job_id , and group by attribute job_id by a bar chart, and rank JOB_ID in desc order.
+1573	Scatter	Hard	hr_1	For all employees who have the letters D or S in their first name, a scatter chart shows the correlation between  employee_id and  salary .
+1574	Scatter	Hard	hr_1	For all employees who have the letters D or S in their first name, show me about the correlation between  salary and  commission_pct  in a scatter chart.
+1583@y_name@DESC	Bar	Extra Hard	hr_1	For those employees whose salary is in the range of 8000 and 12000 and commission is not null or department number does not equal to 40, draw a bar chart about the distribution of hire_date and the average of employee_id bin hire_date by time, and list y axis in desc order.
+1646@y_name@DESC	Bar	Hard	hr_1	For those employees who do not work in departments with managers that have ids between 100 and 200, return a bar chart about the distribution of hire_date and the sum of salary bin hire_date by time, display in desc by the Y.
+1668	Scatter	Extra Hard	hr_1	For those employees who do not work in departments with managers that have ids between 100 and 200, draw a scatter chart about the correlation between  employee_id and  salary .
+1671@y_name@DESC	Bar	Medium	hr_1	For those employees who do not work in departments with managers that have ids between 100 and 200, a bar chart shows the distribution of first_name and salary , and sort by the Y-axis in descending.
+1671@x_name@DESC	Bar	Medium	hr_1	For those employees who do not work in departments with managers that have ids between 100 and 200, visualize a bar chart about the distribution of first_name and salary , show bar in descending order.
+1675	Bar	Extra Hard	hr_1	For those employees who do not work in departments with managers that have ids between 100 and 200, find  last_name and  salary , and visualize them by a bar chart.
+1680@y_name@DESC	Bar	Medium	hr_1	For those employees who do not work in departments with managers that have ids between 100 and 200, give me the comparison about manager_id over the email by a bar chart, show by the y axis in desc.
+1683@y_name@DESC	Bar	Medium	hr_1	For those employees who do not work in departments with managers that have ids between 100 and 200, a bar chart shows the distribution of phone_number and salary , I want to list by the Y-axis in descending please.
+1685@y_name@DESC	Bar	Medium	hr_1	For those employees who do not work in departments with managers that have ids between 100 and 200, return a bar chart about the distribution of phone_number and department_id , and list by the DEPARTMENT_ID in desc.
+1700	Scatter	Extra Hard	hr_1	For those employees who do not work in departments with managers that have ids between 100 and 200, draw a scatter chart about the correlation between  manager_id and  department_id .
+1733@y_name@DESC	Bar	Hard	hr_1	For those employees who did not have any job in the past, return a bar chart about the distribution of job_id and the average of salary , and group by attribute job_id, and show Y-axis in desc order.
+1736@x_name@ASC	Bar	Hard	hr_1	For those employees who did not have any job in the past, draw a bar chart about the distribution of job_id and the sum of department_id , and group by attribute job_id, and I want to show by the X-axis in ascending.
+1748	Scatter	Easy	hr_1	For those employees who did not have any job in the past, visualize the relationship between  employee_id and  salary .
+1755@y_name@ASC	Bar	Hard	hr_1	For those employees who was hired before 2002-06-21, show me about the distribution of hire_date and the amount of hire_date bin hire_date by weekday in a bar chart, order by the Y from low to high.
+1756	Bar	Medium	hr_1	For those employees who was hired before 2002-06-21, draw a bar chart about the distribution of  hire_date and the sum of employee_id bin hire_date by time.
+1757	Bar	Medium	hr_1	For those employees who was hired before 2002-06-21, find  hire_date and the average of employee_id bin hire_date by time, and visualize them by a bar chart.
+1787	Scatter	Easy	hr_1	For those employees who was hired before 2002-06-21, a scatter chart shows the correlation between  salary and  manager_id .
+1804@x_name@ASC	Bar	Extra Hard	hr_1	For those employees whose first name is ending with the letter m, compute their average salary for visualizing a bar chart, and rank names from low to high order please.
+1838	Bar	Easy	hr_1	Bin the hire date of employees into Month interval and count them for visualizing a bar chart.
+1900	Bar	Medium	hr_1	Just show the first name and the manager id with a bar chart.
+1902@x_name@DESC	Bar	Easy	hr_1	Just show the employee's last name and their employee id using a bar chart, and I want to display by the x axis in desc.
+1905	Bar	Easy	hr_1	Just show the employee's last name and their department's id using a bar chart.
+1975@x_name@ASC	Bar	Hard	inn_1	Return a bar chart on how many rooms have king beds? Report the number for each decor type, order by the X-axis in ascending please.
+1984	Bar	Medium	inn_1	Return the name of rooms and the number of reservations made for each of the rooms to draw a bar chart.
+1984@y_name@DESC	Bar	Hard	inn_1	Return the name of rooms and the number of reservations made for each of the rooms to draw a bar chart, list by the y axis in descending please.
+1985@x_name@DESC	Bar	Hard	inn_1	Return the room and number of reservations made for each of the rooms to draw a bar chart, display X-axis in desc order.
+1987	Bar	Easy	insurance_and_eClaims	Find the number of records of each policy type and its type code. Visualize by bar chart.
+1987@x_name@ASC	Bar	Medium	insurance_and_eClaims	Find the number of records of each policy type and its type code Visualize by bar chart, and could you rank bar in ascending order?
+1987@y_name@DESC	Bar	Medium	insurance_and_eClaims	Find the number of records of each policy type and its type code Visualize by bar chart, I want to order from high to low by the y axis.
+2012	Bar	Easy	insurance_policies	What about the average amounts of payments by each method code? You can give me a bar chart.
+2018@y_name@ASC	Bar	Medium	insurance_policies	Bin the settlement date for each settlement case into the day of week interval and count them for visualizing a bar chart, and order Y-axis from low to high order.
+2053@y_name@DESC	Bar	Easy	journal_committee	What are the names and ages of editors? Show me a bar chart, and sort in descending by the y-axis.
+2061	Scatter	Medium	journal_committee	Give me a scatter chart of showing the id and the number of journal committees they are on.
+2065	Pie	Medium	loan_1	Find the name and account balance of the customer whose name includes the letter ‘a’. Show a pie chart.
+2066@x_name@ASC	Bar	Hard	loan_1	What are the names and account balances of customers with the letter a in their names, list by the x axis in asc.
+2070@y_name@DESC	Bar	Medium	loan_1	Return a histogram on what are the different names and credit scores of customers who have taken a loan?, and show by the total number from high to low.
+2074	Pie	Extra Hard	local_govt_and_lot	Give me a pie chart to show the proportion of each type of the thing that has the status 'Close' or has a status record before the date '2017-06-19 02:59:21'.
+2081@x_name@ASC	Stacked Bar	Extra Hard	local_govt_and_lot	Give me a stacked bar chart to show how many things in different types of each thing, and the details of the organization that owns it, list from low to high by the x axis please.
+2096@y_name@DESC	Bar	Hard	local_govt_and_lot	Please use a bar chart to compare the number of customers of each customer's move in date, could you rank by the how many date moved in from high to low?
+2096@x_name@ASC	Bar	Hard	local_govt_and_lot	What is the proportion of each customer's move in date? Show me the bar chart, sort X from low to high order please.
+2109@x_name@DESC	Bar	Medium	local_govt_and_lot	Draw a bar chart of date moved in versus how many date moved in, and sort x axis from high to low order.
+2109@y_name@DESC	Bar	Medium	local_govt_and_lot	Group and count the move in date in a bar chart, order in desc by the Y please.
+2143	Bar	Medium	local_govt_in_alabama	How many events have each participants attended? Show their total number by each participant type code using a bar chart.
+2149@x_name@DESC	Bar	Hard	local_govt_in_alabama	Give me a bar chart to show the number of event details of events that have more than one participant, and show in descending by the x-axis.
+2149@y_name@DESC	Bar	Hard	local_govt_in_alabama	Give me a bar chart to show the number of event details of events that have more than one participant, and list from high to low by the total number.
+2153@y_name@ASC	Bar	Hard	local_govt_in_alabama	Draw a bar chart for what are the ids and details of events that have more than one participants?, and show in asc by the Y.
+2162	Bar	Hard	machine_repair	What are the names of the technicians that are assigned to repair machines with more point values than 70, and count them by a bar chart
+2164@y_name@ASC	Bar	Hard	machine_repair	Give me a bar chart that group and count names of technicians with a series of machines they are assigned to repair, order in asc by the y axis please.
+2166	Pie	Medium	machine_repair	Show names of technicians and the number of machines they are assigned to repair with a pie chart.
+2167@y_name@ASC	Bar	Hard	machine_repair	Give me a histogram for what are the names of the technicians and how many machines are they assigned to repair?, display the total number in ascending order.
+2171	Bar	Hard	machine_repair	Show names of technicians in ascending order of quality rank of the machine they are assigned, and count them by a bar chart
+2172@x_name@ASC	Bar	Hard	manufactory_1	What are the names of products with price at most 200, and count them by a bar chart, display by the Name in ascending.
+2182	Pie	Medium	manufactory_1	Display a pie chart for what are the names and average prices of products for manufacturers whose products cost on average 150 or more?
+2208	Bar	Medium	manufactory_1	For those records from the products and each product's manufacturer, draw a bar chart about the distribution of  name and the average of price , and group by attribute name.
+2213@y_name@DESC	Bar	Hard	manufactory_1	For those records from the products and each product's manufacturer, give me the comparison about the sum of revenue over the name , and group by attribute name by a bar chart, and rank by the Y-axis in desc.
+2217@x_name@DESC	Bar	Hard	manufactory_1	For those records from the products and each product's manufacturer, give me the comparison about the average of code over the headquarter , and group by attribute headquarter, and could you order in desc by the x axis?
+2219	Bar	Medium	manufactory_1	For those records from the products and each product's manufacturer, give me the comparison about the average of price over the  headquarter , and group by attribute headquarter by a bar chart.
+2224@x_name@DESC	Bar	Hard	manufactory_1	For those records from the products and each product's manufacturer, show me about the distribution of headquarter and the sum of revenue , and group by attribute headquarter in a bar chart, list X from high to low order.
+2228	Bar	Medium	manufactory_1	For those records from the products and each product's manufacturer, draw a bar chart about the distribution of  founder and the average of code , and group by attribute founder.
+2229@y_name@ASC	Bar	Hard	manufactory_1	For those records from the products and each product's manufacturer, give me the comparison about the sum of price over the founder , and group by attribute founder by a bar chart, rank by the y-axis from low to high please.
+2230	Bar	Medium	manufactory_1	For those records from the products and each product's manufacturer, show me about the distribution of  founder and the average of price , and group by attribute founder in a bar chart.
+2231@x_name@ASC	Bar	Hard	manufactory_1	For those records from the products and each product's manufacturer, return a bar chart about the distribution of founder and the sum of manufacturer , and group by attribute founder, and rank by the x axis in asc.
+2231@y_name@ASC	Bar	Hard	manufactory_1	For those records from the products and each product's manufacturer, give me the comparison about the sum of manufacturer over the founder , and group by attribute founder, and show from low to high by the Y-axis.
+2236@x_name@DESC	Bar	Hard	manufactory_1	For those records from the products and each product's manufacturer, give me the comparison about the average of revenue over the founder , and group by attribute founder by a bar chart, display X in descending order.
+2242@x_name@DESC	Stacked Bar	Hard	manufactory_1	For those records from the products and each product's manufacturer, find name and code , and group by attribute headquarter, and visualize them by a bar chart, and rank by the X-axis in descending.
+2259	Bar	Medium	manufactory_1	For those records from the products and each product's manufacturer, show me about the distribution of  name and the sum of code , and group by attribute name in a bar chart.
+2278	Grouping Scatter	Medium	manufactory_1	For those records from the products and each product's manufacturer, draw a scatter chart about the correlation between  price and  manufacturer , and group by attribute name.
+2280	Grouping Scatter	Medium	manufactory_1	For those records from the products and each product's manufacturer, a scatter chart shows the correlation between  price and  revenue , and group by attribute name.
+2282	Grouping Scatter	Medium	manufactory_1	For those records from the products and each product's manufacturer, what is the relationship between  manufacturer and  revenue , and group by attribute name?
+2308	Bar	Easy	manufacturer	Find the component amounts and names of all furnitures that have more than 10 components. 
+2310@x_name@DESC	Bar	Hard	manufacturer	Find the number of funiture types produced by each manufacturer as well as the company names Show bar chart, and could you display by the x-axis in desc please?
+2319	Bar	Medium	match_season	Show the country names and the corresponding number of players in a bar chart.
+2319@y_name@ASC	Bar	Hard	match_season	Show the country names and the corresponding number of players in a bar chart, sort total number in asc order.
+2439@y_name@DESC	Bar	Hard	music_4	Return the categories of music festivals that have the result "Awarded", and count them by a bar chart, and order by the y axis from high to low.
+2443@x_name@ASC	Bar	Hard	musical	how many actors have appeared in each musical?, order x-axis in ascending order please.
+2464	Pie	Medium	network_2	Find the number of people who is under 40 for each gender. Show the proportion.
+2476@y_name@DESC	Bar	Hard	news_report	Return me a bar chart to show the average experience working length of journalists working on different role type, I want to display by the y axis in descending.
+2486@y_name@ASC	Bar	Medium	news_report	Visualize a bar chart, count and group by nationality from the journalist table, rank in ascending by the Y-axis please.
+2503@y_name@ASC	Bar	Medium	party_host	How many hosts does each nationality have? List the nationality and the count Visualize by bar chart, could you list in ascending by the y axis?
+2503	Bar	Easy	party_host	Show different nationalities along with the number of hosts of each nationality in a bar chart.
+2507@y_name@ASC	Bar	Medium	party_host	Give me a bar chart, that group by location and count them, and sort by the the number of location from low to high please.
+2509	Bar	Medium	party_people	Show party names and the number of events for each party in a bar chart.
+2518	Pie	Easy	party_people	Please tell me the repeat times of each ministers using a pie chart.
+2529@x_name@DESC	Bar	Medium	performance_attendance	Bar chart of the total number from each location, I want to sort by the bars from high to low.
+2537@y_name@DESC	Bar	Extra Hard	performance_attendance	Show the number of the dates of performances with attending members whose roles are "Violin", rank Y-axis in descending order.
+2539@x_name@DESC	Bar	Medium	performance_attendance	Compare the total number of locations in each location using a bar graph, and display x axis from high to low order please.
+2544@x_name@DESC	Bar	Medium	perpetrator	What are the countries of perpetrators? Show each country and the corresponding number of perpetrators there Plot them as bar chart, and rank by the x-axis from high to low.
+2565@x_name@DESC	Bar	Extra Hard	phone_1	Compare the number of chips from different company names for the phone whose screen mode type is "Graphics" with a bar chart, could you order by the X from high to low?
+2566@y_name@ASC	Bar	Extra Hard	phone_1	Compute the total number of chips of different company names for all the phones that were launched in year 2002 or have RAM size greater than 32, rank in ascending by the y-axis.
+2577@x_name@DESC	Bar	Hard	phone_market	Compare the number of the names of phones by a bar chart, and order in descending by the x-axis.
+2585@y_name@DESC	Bar	Medium	pilot_record	Bar chart of the number of position from each position, rank by the Y from high to low please.
+2621@x_name@ASC	Bar	Extra Hard	products_gen_characteristics	Find the number of the category descriptions of the products whose descriptions include letter 't', list names in ascending order.
+2626@y_name@DESC	Bar	Hard	protein_institute	For each building, show the name of the building and the number of institutions in it Plot them as bar chart, and rank in desc by the Y-axis please.
+2629@y_name@DESC	Bar	Medium	protein_institute	Let institution types as the X-axis and the number of institutions for each type as Y-axis, the visualization type is bar chart, could you order in desc by the Y-axis?
+2631@y_name@ASC	Bar	Medium	protein_institute	Please compare the total enrollment for each type using a bar chart, and could you list in asc by the total number of enrollment please?
+2655@x_name@DESC	Bar	Medium	railway	Create a bar chart showing the total number across builder, I want to list x-axis in desc order.
+2677@y_name@ASC	Bar	Medium	riding_club	Compare the distribution of the players' gender using a bar chart, rank by the total number in ascending.
+2681@y_name@ASC	Bar	Medium	riding_club	Show different occupations along with the number of players in each occupation with a bar chart, and could you list Y-axis in ascending order please?
+2695	Pie	Easy	school_bus	Show the proportion of the home city of all drivers with a pie chart.
+2740	Bar	Easy	ship_1	What is the average age of captains in different classes?
+2749@y_name@DESC	Bar	Hard	ship_1	Give me a bar chart showing the total number of ships' classes that do not have a captain, show Y in descending order.
+2750@x_name@DESC	Stacked Bar	Hard	ship_1	A stacked bar graph shows the total number of captains categorize by ranks of different classes, and display in desc by the x-axis.
+2754	Pie	Easy	ship_1	Tell me the proportion of the total number of different ranks using a bar graph.
+2756@y_name@ASC	Stacked Bar	Hard	ship_mission	What is the total number of every ship type by categorizing by nationality?, and sort the number of type in ascending order.
+2765@x_name@ASC	Bar	Medium	ship_mission	For each type, what is the average tonnage, show from low to high by the Type.
+2765	Bar	Easy	ship_mission	Show different types of ships and the average tonnage of ships of each type in a bar chart.
+2765@y_name@DESC	Bar	Medium	ship_mission	Give me a bar chart for mean tonnage of each type, display from high to low by the y-axis.
+2769@y_name@DESC	Bar	Medium	shop_membership	Count the hometown by hometown, and sort from high to low by the y-axis.
+2792	Bar	Easy	soccer_2	Show me about the distribution of  cName and  enr  in a bar chart.
+2798@y_name@DESC	Bar	Medium	soccer_2	What is the name of the school that has the smallest enrollment in each state?, could you rank in desc by the Y-axis?
+2803@x_name@ASC	Bar	Hard	solvency_ii	Show the names of products and the number of events they are in by a bar chart, and sort by the X in asc.
+2803@y_name@DESC	Bar	Hard	solvency_ii	Show the names of products and the number of events they are in Visualize by bar chart, and order by the Y in descending.
+2805@x_name@DESC	Bar	Hard	solvency_ii	List the number of the names of products that are not in any event, and rank x axis from high to low order please.
+2811@x_name@ASC	Bar	Medium	solvency_ii	Give me a bar graph showing the total number of different product names, I want to rank x axis in ascending order.
+2814@y_name@DESC	Bar	Medium	sports_competition	What is the number of types of competition?, sort the number of competition type from high to low order.
+2820	Bar	Easy	sports_competition	List the types of competition and the number of competitions of each type in a bar chart.
+2820@y_name@ASC	Bar	Medium	sports_competition	What are the types of competition and number of competitions for that type Show bar chart, and rank Y in ascending order.
+2823@x_name@DESC	Bar	Hard	sports_competition	For the names and the players of clubs, count the names by names in a bar chart, list from high to low by the x-axis.
+2834	Bar	Easy	station_weather	Group by services attribute in station table and compute the total number of services with a bar chart.
+2844	Bar	Easy	station_weather	Find the number of trains starting from each origin. Plot them as bar chart.
+2856@x_name@DESC	Bar	Hard	store_1	List the number of invoices from the US, grouped by state Visualize by bar chart, list by the billing_state in descending.
+2859@y_name@DESC	Bar	Hard	store_product	How many stores are headquarted in each city Plot them as bar chart, and show in descending by the y axis please.
+2868@y_name@DESC	Bar	Medium	storm_record	For all storms with at least 1 death, show me the name and the total number of deaths with a bar chart, show Y-axis from high to low order.
+2888@x_name@DESC	Bar	Medium	student_transcripts_tracking	Return a histogram on what is the date and id of the transcript with at least 2 courses listed?, display in desc by the X.
+2888@x_name@ASC	Bar	Medium	student_transcripts_tracking	A bar chart about what is the date and id of the transcript with at least 2 courses listed?, show by the transcript_date in asc.
+2891@x_name@DESC	Line	Hard	student_transcripts_tracking	I want to visualize the trend about the total appears times of transcript date in the Year interval, and I want to rank X in desc order please.
+2906@y_name@DESC	Bar	Medium	swimming	Return a bar chart about the distribution of Nationality and the sum of ID , and group by attribute Nationality, I want to sort from high to low by the y-axis.
+2908@x_name@DESC	Bar	Medium	swimming	Draw a bar chart about the distribution of Nationality and the sum of meter_100 , and group by attribute Nationality, and I want to list by the X in descending.
+2911@y_name@DESC	Bar	Medium	swimming	Visualize a bar chart about the distribution of meter_200 and the average of ID , and group by attribute meter_200, and rank by the Y in desc.
+2920@y_name@DESC	Bar	Easy	swimming	Return a bar chart about the distribution of meter_500 and ID , and could you sort in descending by the total number?
+2920	Bar	Easy	swimming	Return a bar chart about the distribution of  meter_500 and  ID .
+2924@x_name@ASC	Bar	Easy	swimming	Give me the comparison about ID over the meter_700 , and order by the bar from low to high.
+2931@y_name@ASC	Bar	Extra Hard	swimming	Find the names of stadiums that some Australian swimmers have been to, and count them by a bar chart, could you display total number in ascending order?
+2956	Bar	Medium	tracking_grants_for_research	Find the organisation ids and details of the organisations which are involved i. Visualize by bar chart.
+2956@y_name@ASC	Bar	Hard	tracking_grants_for_research	What are the ids and details for all organizations that have grants of more than 6000 dollars Show bar chart, and I want to list mean organisation id in asc order please.
+2959@x_name@ASC	Bar	Hard	tracking_grants_for_research	What are the number of the descriptions of all the project outcomes?, and I want to show by the bar in ascending.
+2991	Scatter	Medium	tracking_share_transactions	Show the average amount of transactions for different lots in a scatter chart
+2992	Scatter	Easy	tracking_share_transactions	Show the average share count of transactions for different investors with a scatter chart.
+3002@x_name@ASC	Bar	Medium	tracking_share_transactions	Show all investor details, and count them by a bar chart, and sort from low to high by the x axis please.
+3008	Line	Easy	tracking_share_transactions	Bin all date of transactions into the weekday interval, and the total number of each bin, and then show me the trend.
+3033@x_name@DESC	Bar	Medium	tracking_software_problems	Bar chart x axis log entry description y axis the number of log entry description, and I want to display in descending by the bar please.
+3045@y_name@DESC	Bar	Medium	train_station	Give me a bar chart about the number of platforms in different locations, and I want to list from high to low by the total number please.
+3051	Pie	Easy	train_station	Show all locations and the total number of platforms for all train stations in each location in a pie chart.
+3062@x_name@DESC	Bar	Hard	tvshow	Give me a bar chart showing the comparison of the pixel aspect ratio and the nation of the tv channels that do not use English, I want to display in desc by the Pixel_aspect_ratio_PAR.
+3087@x_name@ASC	Stacked Bar	Medium	university_basketball	Find All_Home and School_ID , and group by attribute ACC_Road, and visualize them by a bar chart, sort bars in ascending order.
+3087@y_name@ASC	Stacked Bar	Medium	university_basketball	Visualize a bar chart about the distribution of All_Home and School_ID , and group by attribute ACC_Road, order in asc by the y axis.
+3103@x_name@DESC	Bar	Medium	university_basketball	Return a bar chart about the distribution of All_Home and the average of Team_ID , and group by attribute All_Home, and list All_Home in desc order.
+3132@y_name@DESC	Bar	Easy	university_basketball	Find Team_Name and ACC_Percent , and visualize them by a bar chart, I want to order by the Y-axis in desc please.
+3146@y_name@DESC	Bar	Easy	university_basketball	Create a bar chart showing all_games_percent across all neutral, sort by the y axis from high to low.
+3226@y_name@DESC	Bar	Extra Hard	wine_1	Give the neames of wines with prices below 50 and with appelations in Monterey county, and count them by a bar chart, sort y-axis from high to low order please.
+3235@y_name@ASC	Stacked Bar	Extra Hard	wine_1	List the grape and winery of the wines whose price is bigger than 100, visualize them with a stacked bar chart, the x-axis is winery and group the grape, and y-axis is the number of wineries, and show y-axis in asc order.
+3247@x_name@ASC	Line	Easy	wine_1	What are the maximum score of wines in each year?, and show in asc by the X.
+3281@x_name@ASC	Bar	Medium	wrestler	What is the number of locations of the wrestlers? Visualize by a bar chart, I want to list by the bar from low to high.
+3282	Pie	Easy	wrestler	A pie chart shows the proportion of the number of teams in elimination.
+3290@y_name@DESC	Bar	Medium	wta_1	Show me the total number from each year, I want to order Y-axis in desc order.
+3291@y_name@DESC	Bar	Medium	wta_1	Bar graph to show the total number from different year, binning by year by, display from high to low by the count year.
+32@y_name@DESC	Bar	Hard	aircraft	For each aircraft that has won an award, what is its name and how many time has it won Plot them as bar chart, I want to list by the total number from high to low.
+74@y_name@ASC	Bar	Medium	apartment_rentals	How many bookings does each booking status have? List the booking status code and the number of corresponding bookings with a bar chart, sort in asc by the total number.
+85@y_name@ASC	Bar	Medium	apartment_rentals	Show the number of apartment bookings in each year and bin booking start date by year with a bar chart, could you sort from low to high by the y axis?
+89@y_name@ASC	Bar	Hard	apartment_rentals	Show the number of apartment bookings for each year and bin booking start date by year interval in a bar chart, and show y-axis from low to high order.
+100	Bar	Medium	apartment_rentals	Show the number of start dates of all the apartment bookings for each weekday with a bar chart.
+102@x_name@ASC	Bar	Hard	apartment_rentals	How many bookings for each apartment number? Plot a bar chart, I want to sort names in asc order.
+116@y_name@DESC	Bar	Hard	assets_maintenance	Return a bar chart on how many engineers did each staff contact? List both the contact staff name and number of engineers contacted, and I want to order in desc by the y axis.
+128@x_name@DESC	Bar	Hard	assets_maintenance	How many staffs have contacted with each engineer? Give me a bar chart grouping by each engineer's last name, rank by the names in desc.
+133@x_name@DESC	Stacked Bar	Extra Hard	assets_maintenance	List the number of enginners in a stacked bar chart The x-axis is first name and group by skill description, and list bar in descending order.
+137	Pie	Medium	assets_maintenance	List the number of engineers and group by other details in a pie chart.
+145@x_name@DESC	Stacked Bar	Extra Hard	assets_maintenance	A stacked bar chart showing the number of faults for different fault short name and skills required to fix them The x-axis is skill description and group by fault short name, show by the skill_description in desc.
+166@x_name@DESC	Line	Medium	baseball_1	How many home games by each year (bin the year attr into weekdays interval)? Give me a line chart, and display X-axis in descending order.
+195	Stacked Bar	Extra Hard	behavior_monitoring	Give me the comparison about the average of monthly_rental over the  date_address_to , and group by attribute other_details and bin date_address_to by time by a bar chart.
+318@y_name@ASC	Bar	Medium	bike_1	Show how many installation date from each installation date, and rank by the Y in ascending.
+342	Line	Medium	bike_1	What are the number of the dates that have an average sea level pressure between 30.3 and 31?
+367	Bar	Medium	book_2	List the writers of the books in ascending alphabetical order, and count them by a bar chart
+372@x_name@DESC	Bar	Medium	browser_web	Draw a bar chart of operating system versus the total number, display from high to low by the names please.
+379@y_name@DESC	Bar	Medium	candidate_poll	Give me the comparison about the sum of Height over the Sex , and group by attribute Sex by a bar chart, show sum height in descending order.
+399	Scatter	Easy	candidate_poll	Plot a scatter chart, to show the correlation between support and consider rates for each candidate.
+411@x_name@ASC	Bar	Medium	car_1	what are the countries having at least one car maker? List name and id, order in ascending by the bars please.
+431	Bar	Easy	car_1	Show me a bar chart for what are the names and ids of all makers with more than 3 models?
+445	Bar	Easy	cinema	List all directors along with the number of films directed by each director in a bar chart.
+445@y_name@DESC	Bar	Medium	cinema	List all directors along with the number of films directed by each director in a bar chart, sort Y-axis in descending order.
+455@y_name@DESC	Bar	Hard	cinema	For each film, return the number of cinemas showing that fim in a bar chart, and I want to order total number in descending order.
+458	Bar	Medium	cinema	A bar chart showing the number of films each cinema has.
+459@y_name@DESC	Bar	Hard	cinema	For each record in schedule, show sum of price for each day in a bar chart, and could you list y-axis in desc order?
+471@x_name@DESC	Line	Medium	cinema	Can you draw the trend of the average of capacity over the openning year?, and sort by the x axis in desc.
+479@y_name@ASC	Bar	Hard	cinema	What is total number of show times per dat for each cinema Show bar chart, and could you rank in asc by the y axis?
+515@y_name@DESC	Bar	Medium	college_1	Find the number of departments in each school Plot them as bar chart, and I want to show by the y axis from high to low please.
+584@x_name@DESC	Bar	Hard	college_1	How many courses for each course description? Show me a bar chart, I want to rank x axis in descending order.
+586@y_name@ASC	Bar	Medium	college_1	Return a histogram on what is the total credit does each department offer?, could you rank by the y axis from low to high?
+680@y_name@DESC	Stacked Bar	Hard	company_employee	Stack bar chart of the number of headquarters vs Industry based on headquarters, display Y-axis in desc order please.
+709@x_name@DESC	Bar	Medium	county_public_safety	Display a bar chart for how many counties correspond to each police force?, show by the names in desc.
+769@y_name@DESC	Bar	Medium	cre_Doc_Tracking_DB	Show the number of documents for each location code in a bar chart, and I want to rank by the y axis in desc.
+829@x_name@ASC	Bar	Medium	cre_Docs_and_Epenses	Bar graph to show the number of document type description from different document type description, and show in ascending by the x-axis.
+842@x_name@ASC	Bar	Hard	cre_Docs_and_Epenses	How many documents for each document type description? Visualize by a bar chart, sort from low to high by the bar.
+905	Bar	Medium	culture_company	Show how many movies did each director direct in a bar chart.
+912@x_name@ASC	Bar	Hard	customer_deliveries	List the state names and the number of customers living in each state, and order by the bars from low to high please.
+953@x_name@ASC	Line	Medium	customers_and_invoices	How many accounts are opened in each year? Show a line chart, and list by the X-axis from low to high.
+960@x_name@ASC	Bar	Medium	customers_and_invoices	What are the first names and ids for customers who have two or more accounts, and could you list from low to high by the names please?
+972@x_name@ASC	Bar	Medium	customers_and_invoices	Show the transaction types and the total amount of transactions, and order by the X-axis from low to high.
+988@y_name@ASC	Bar	Hard	customers_and_invoices	How many accounts for each customer? Show a bar chart that groups by customer's first name, sort by the the total number in ascending.
+994@y_name@ASC	Bar	Hard	customers_and_products_contacts	Show the number of customer address history in each day and bin date from by weekday with a bar chart, and sort how many date from from low to high order.
+995	Bar	Medium	customers_and_products_contacts	Show the number of addrens history for each customer in a bar chart.
+1000@y_name@ASC	Bar	Medium	customers_and_products_contacts	Compare the frequency of product names using a bar chart, and list from low to high by the y axis please.
+1015@y_name@ASC	Bar	Medium	customers_campaigns_ecommerce	Show all distinct product categories along with the number of mailshots in each category Visualize by bar chart, order from low to high by the y-axis.
+1032@x_name@DESC	Bar	Medium	customers_card_transactions	Show me a bar chart for what are the different transaction types, and how many transactions of each have taken place?, I want to display in descending by the bar.
+1056	Scatter	Easy	customers_card_transactions	Show the relationship between customer id and card id with a scatter chart.
+1068	Pie	Easy	debate	Show different parties of people along with the number of people in each party by a pie chart.
+1073	Pie	Medium	debate	Show the number of debates for each person on the negative side in a pie chart.
+1089@y_name@DESC	Bar	Hard	decoration_competition	Return a bar chart showing how many members have visited for each college, could you display y axis in desc order please?
+1106@x_name@ASC	Bar	Extra Hard	department_management	Show the name and number of employees for the departments managed by heads whose temporary acting value is 'Yes' by a bar chart, and could you order in asc by the x axis?
+1130@y_name@DESC	Bar	Easy	department_store	Give the minimum product price for each product type in a bar chart, and list minimal product price from high to low order.
+1138@y_name@DESC	Bar	Extra Hard	department_store	Show the sum of price supplied by supplier id 3 for different product type code in a bar chart, display by the Y in desc.
+1146	Bar	Medium	device	Give a bar chart showing how many shops in each carrier.
+1197@x_name@ASC	Bar	Hard	dog_kennels	List the number of dogs each owner has in a bar chart that groups by owner's first name, I want to list by the first_name in asc.
+1199@y_name@ASC	Bar	Hard	dog_kennels	What are the cost and treatment type description of each treatment, order in asc by the y axis.
+1202@y_name@DESC	Bar	Hard	dog_kennels	List the number of dogs for each size code in a bar chart, could you sort total number from high to low order?
+1247@x_name@ASC	Bar	Medium	driving_school	List all payment methods and number of payments using each payment methods Plot them as bar chart, display names in ascending order please.
+1249@y_name@ASC	Bar	Extra Hard	e_learning	What are the number of the completion dates of all the tests that have result "Fail"?, display from low to high by the total number.
+1284@x_name@DESC	Bar	Hard	e_learning	Find the dates of the tests taken with result "Pass", and count them by a bar chart, and rank names in descending order.
+1307@x_name@DESC	Bar	Hard	election	Show the name of each party and the corresponding number of delegates from that party Plot them as bar chart, and I want to list by the X in descending.
+1309	Pie	Medium	election	Show the name of each party and the corresponding number of delegates from that party by a pie chart.
+1315@y_name@DESC	Bar	Hard	election	Show the name of each county along with the corresponding number of delegates from that county Plot them as bar chart, and order Y in desc order.
+1333@y_name@DESC	Stacked Bar	Extra Hard	employee_hire_evaluation	Show me about the distribution of Start_from and the sum of Employee_ID , and group by attribute Is_full_time and bin start_from by weekday in a bar chart, sort in descending by the Y.
+1348@y_name@DESC	Bar	Medium	employee_hire_evaluation	Find Is_full_time and the average of Employee_ID , and group by attribute Is_full_time, and visualize them by a bar chart, display from high to low by the mean employee id.
+1357	Scatter	Easy	employee_hire_evaluation	A scatter chart shows the correlation between  Shop_ID and  Employee_ID .
+1384@x_name@ASC	Bar	Medium	farm	Show the average of population from each status, rank from low to high by the X.
+1384@x_name@DESC	Bar	Medium	farm	Give me a histogram for what are the statuses and average populations of each city?, list by the names in desc please.
+1436@y_name@DESC	Bar	Hard	formula_1	Display a bar chart for what are the ids and locations of all circuits in France or Belgium?, and list y-axis in desc order please.
+1460@x_name@DESC	Bar	Hard	formula_1	A bar chart for what are the number of the names of all races held between 2009 and 2011?, display in desc by the X-axis.
+1499	Bar	Medium	gas_company	Find the rank of the companies in the banking industry order by their sales and profits in billion with a bar chart.
+1511	Bar	Easy	gas_company	Show the number of gas stations for each manager in a bar chart.
