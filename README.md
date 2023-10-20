@@ -28,8 +28,31 @@ Download the sql databases from "[nvBench dataset](https://github.com/TsinghuaDa
 ```
 python main.py
 ```
+### 3. Demo
+We provide a demo and you can try it by running the following command:
+```
+cd demo/
+python demo_main.py
+```
+You will first enter the OpenAI and SERPAPI keys according to the instructions:
+```
+* Please enter your OpenAI API key: 
+* Please enter your Google API key:
+```
+Then you will be prompted to choose the sqlite file and sql schema:
+```
+* Please choose the database file to read: 
+* Please choose the schema file to read:
+```
+You can select `demo/apartment_rentals.sqlite` and `demo/schema.sql`. Or you can play with your own data.
 
-### 3. Data
+Next, you will be prompted to enter the question. Press enter to use the default question or enter your own question:
+```
+* Please enter your question (Press Enter to use the default question):
+```
+The pipeline starts to run now.
+
+### 4. Data
 Our data and experimental results will be released soon.
 
 ## Citation
